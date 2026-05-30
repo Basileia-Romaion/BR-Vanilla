@@ -1,0 +1,3727 @@
+countries = {
+	countries = {
+
+	#Balkans
+		ANA = { #br releasable
+			our_cores_conquered_by_others = {
+				aksaray kochisar kulu_turkey insuyu lake_tuz
+				ankara cubuk haymana kalecik karakecili polatli
+				beysehir aksehir bolvadin ilgin sarkikaraagac seydisehir yalvac
+				cankiri bayat cerkes kursunlu sabanozu tosya
+				karahisar_i_sahib altintas emirdag sandikli seyitgazi suhut
+				konya altinekin celtik cumra ladik suluklu turgut
+				larende eregli_kar eskil hatunsaray karapinar obruk pirloganda
+				sivrihisar beypazari bozan kaymaz kibrus kizilca mihaliccik
+
+				kirsehir hacibektas nevsehir sariyahsi urgup
+				bozok baliseyh candir dinek_keskin sorgun
+				isparta burdur dinar egirdir stefani uluborlu
+				usak banaz gediz honaz lazkiye seyhli
+				kutahya aslanapa domanic emet simav tavsanli
+				sultanonu bilecik goynuk eynegol inonu nalli sogut
+			}
+			
+			starting_technology_level = 3
+			include = "expl_eastern_europe"
+			include = "br_thema_template"
+			include = "expl_mediterranean"
+			include = "expl_silk_road_west"
+			include = "expl_silk_road_center"
+			include = "expl_silk_road_east"
+			include = "expl_indian_trade_route"
+			government = {
+
+			}
+			
+			country_rank = rank_kingdom
+			accepted_cultures = {
+				greek_culture
+			}
+			tolerated_cultures = {
+				cappadocian_greek_culture
+				armenian_culture
+			}
+			liturgical_language = koine_dialect
+			capital = ankara
+		}
+
+		KAP = {
+			our_cores_conquered_by_others = {
+				kayseri bogazliyan develi tomarza yahyali
+				kirsehir hacibektas nevsehir sariyahsi urgup
+				nigde bekarlar bor_tur
+				larende eregli_kar eskil hatunsaray karapinar obruk pirloganda
+				aksaray kochisar kulu_turkey insuyu
+			}
+			
+			starting_technology_level = 3
+			include = "expl_eastern_europe"
+			include = "br_thema_template"
+			include = "expl_mediterranean"
+			include = "expl_silk_road_west"
+			include = "expl_silk_road_center"
+			include = "expl_silk_road_east"
+			include = "expl_indian_trade_route"
+			government = {
+				ruler = random
+			}
+			
+			country_rank = rank_kingdom
+			accepted_cultures = {
+				greek_culture
+			}
+			tolerated_cultures = {
+				armenian_culture
+			}
+			
+			liturgical_language = koine_dialect
+			capital = kayseri
+		}
+
+		P0N = {
+			our_cores_conquered_by_others = {
+				#bolu akcasehir akyazi eregli konrapa mudurnu
+				giresun akkus bayramlu mesudiye terme unye
+				kastamonu arac devrekani inebolu kure_i_mamure taskopru
+				safranbolu amasra bartin gerede mengen ulus yenicepazari
+				sinop bafra boyabat gerze samsun
+				trebizond gorele gumushane khupati rize surmene
+			}
+			
+			starting_technology_level = 3
+			include = "expl_eastern_europe"
+			include = "br_thema_template"
+			include = "expl_mediterranean"
+			include = "expl_silk_road_west"
+			include = "expl_silk_road_center"
+			include = "expl_silk_road_east"
+			include = "expl_indian_trade_route"
+			government = {
+				ruler = random
+			}
+			
+			country_rank = rank_kingdom
+			accepted_cultures = {
+				greek_culture
+			}
+			tolerated_cultures = {
+				armenian_culture
+			}
+			
+			liturgical_language = koine_dialect
+			capital = sinop
+		}
+
+		P1N = {
+			our_cores_conquered_by_others = {
+				theodoro qirq_yer lusta qarasuvbazar
+				kaffa soldaia vosporo seyitler solkhat
+				kalay kezlev aqmecit jurchi or_qapi
+			}
+			
+			starting_technology_level = 3
+			include = "expl_eastern_europe"
+			include = "br_thema_template"
+			include = "expl_mediterranean"
+			include = "expl_silk_road_west"
+			include = "expl_silk_road_center"
+			include = "expl_silk_road_east"
+			include = "expl_indian_trade_route"
+			government = {
+				ruler = random
+			}
+			
+			country_rank = rank_kingdom
+			accepted_cultures = {
+				gothic_culture
+				varangian
+			}
+			tolerated_cultures = {
+				latinoi
+				greek_culture
+			}
+			
+			liturgical_language = koine_dialect
+			capital = theodoro
+		}
+
+		AN0 = {
+			our_cores_conquered_by_others = {
+				amasya gadegara ladik_pontus merzifon sonisa
+				tokat akdagmadeni aydincik koyulhisar niksar sulusaray zile
+				sivas darende dasmenda deliktash gemerek gurun hafik sarkisla zara
+				divrigi arapgir arguvan egin
+				erzurum bayburt erzincan ilic kelkit kemah sebinkarahisar siran tercan
+			}
+			
+			starting_technology_level = 3
+			include = "expl_eastern_europe"
+			include = "br_thema_template"
+			include = "expl_mediterranean"
+			include = "expl_silk_road_west"
+			include = "expl_silk_road_center"
+			include = "expl_silk_road_east"
+			include = "expl_indian_trade_route"
+			government = {
+				ruler = random
+			}
+			
+			country_rank = rank_duchy
+			accepted_cultures = {
+				greek_culture
+			}
+			tolerated_cultures = {
+				armenian_culture
+			}
+			
+			liturgical_language = koine_dialect
+			capital = sinop
+		}
+		
+		SE4 = { #Releasable
+			our_cores_conquered_by_others = {
+				podgorica bar_cg gradina kotor onogost
+				shkoder dukagjini has koman lezha
+			}
+			
+			starting_technology_level = 3
+			include = "expl_mediterranean"
+			include = "expl_silk_road_west"
+			include = "expl_silk_road_center"
+			include = "expl_silk_road_east"
+			include = "expl_indian_trade_route"
+			include = "br_pronoia_template"
+			government = {
+			}
+			
+			accepted_cultures = {
+				serbian
+			}
+			tolerated_cultures = {
+				latinoi
+				albanian
+			}
+			
+			country_rank = rank_duchy
+			liturgical_language = koine_dialect
+			
+			capital = shkoder
+		}
+
+		B2L = {
+			our_cores_conquered_by_others = {
+				dospat bansko krupnik melnik nevrokop beden
+			}
+			
+			starting_technology_level = 3
+			include = "expl_mediterranean"
+			include = "eastern_european_monarchy"
+			country_rank = rank_county
+			government = {
+				type = monarchy
+				heir_selection = cognatic_primogeniture
+				
+				reforms = {
+					autocracy
+				}
+				privilege = {
+					primacy_of_nobility
+					peasants_allowed_weapons_privilege
+				}
+			}
+			accepted_cultures = {
+				boulgaroi
+				greek_culture
+			}
+			tolerated_cultures = {
+				serbian
+			}
+			liturgical_language = church_slavonic_language
+			
+			capital = melnik
+		}
+		
+		B3L = {
+			our_cores_conquered_by_others = {
+				sredets svoge dupnitsa samokov zemlungrad tsaribrod pirot
+			}
+			
+			starting_technology_level = 3
+			include = "expl_mediterranean"
+			include = "br_pronoia_template"
+			country_rank = rank_county
+			government = {
+			}
+			accepted_cultures = {
+				greek_culture
+			}
+			tolerated_cultures = {
+				bulgarian
+			}
+			liturgical_language = koine_dialect
+			
+			capital = sredets
+		}
+		
+		B4L = {
+			our_cores_conquered_by_others = {
+				plovdiv kran strelcha tsepina kostenets stipon
+				beden stanimaka
+				constantia_bul boruy sliven
+			}
+			
+			starting_technology_level = 3
+			include = "expl_mediterranean"
+			include = "br_pronoia_template"
+			country_rank = rank_duchy
+			government = {
+			}
+			accepted_cultures = {
+				greek_culture
+			}
+			tolerated_cultures = {
+				bulgarian
+			}
+			liturgical_language = koine_dialect
+			
+			capital = plovdiv
+		}
+		
+		B5L = {
+			our_cores_conquered_by_others = {
+				ohrid bitola prilep florina kicevo tetovo
+				prosek shtip kocani strumica skopje kumanovo veles kratovo
+				vranje velbuzd
+				debar
+			}
+			
+			starting_technology_level = 3
+			include = "expl_mediterranean"
+			include = "br_pronoia_template"
+			country_rank = rank_duchy
+			government = {
+			}
+			accepted_cultures = {
+				greek_culture
+			}
+			tolerated_cultures = {
+				bulgarian
+			}
+			liturgical_language = koine_dialect
+			
+			capital = skopje
+		}
+		
+		B6L = {
+			our_cores_conquered_by_others = {
+				karvuna pangalia kaliakra
+				babadag cernavoda constanta enisala isaccea
+				tulcea harsova
+				ovech varna
+				tarnovo drastar tutrakan cherven razgrad shumen targoviste_BUL
+				lovech nikopol pleven oryahovo bozhenitsa hotalich tryavna
+				gigen dobrolak ruse kladentsi lyaskovets veliki_preslav ktenia
+			}
+			
+			starting_technology_level = 3
+			include = "expl_mediterranean"
+			include = "br_pronoia_template"
+			country_rank = rank_duchy
+			government = {
+			}
+			accepted_cultures = {
+				greek_culture
+			}
+			tolerated_cultures = {
+				wallachian
+			}
+
+			dynasty = doukas_dynasty
+			liturgical_language = koine_dialect
+			
+			capital = tarnovo
+		}
+
+	## Middle East
+		SY0 = { #br releasable
+			our_cores_conquered_by_others = {
+				jerusalem acre beersheba gaza hebron majdal nablus safed jaffa
+			}
+			
+			starting_technology_level = 3
+			include = "expl_eastern_europe"
+			include = "expl_mediterranean"
+			include = "expl_silk_road_west"
+			include = "expl_silk_road_center"
+			include = "expl_silk_road_east"
+			include = "expl_indian_trade_route"
+			include = "br_thema_template"
+			government = {
+			}
+			
+			accepted_cultures = {
+				syriac_culture
+			}
+			
+			liturgical_language = koine_dialect
+			country_rank = rank_duchy
+			capital = jerusalem
+		}
+
+		SY1 = {
+			our_cores_conquered_by_others = {
+				urfa birecik suruc viransehir
+			}
+			
+			starting_technology_level = 3
+			include = "expl_eastern_europe"
+			include = "expl_mediterranean"
+			include = "expl_silk_road_west"
+			include = "expl_silk_road_center"
+			include = "expl_silk_road_east"
+			include = "expl_indian_trade_route"
+			include = "br_thema_template"
+			government = {
+			}
+			
+			accepted_cultures = {
+				syriac_culture
+			}
+			
+			liturgical_language = koine_dialect
+			country_rank = rank_county
+			capital = urfa
+		}
+
+	#Africa
+	
+		AGY = { #releasable
+			our_cores_conquered_by_others = {
+				alexandria el_alamein damanhur ramsis kafr_saqr kharibta rashid wadi_el_natrun
+				cairo atfih beni_suef faiyum giza dakahla
+				damietta al_mima el_burullus el_mahalla fuwa menouf samanoud tidah
+				mansoura bilbeis faqus ushmum_tannah qalyub tarrana tinnis
+				suez saint_anthony saint_paul_anchorite
+				el_tor
+				edfu esna qena hiw qus
+				asyut el_balyana el_buwit akhmim manfalut
+				minya ashmunayn el_bahnasa sharuna tahna
+				kharga bahariyya baris el_qasr qasr_farafra siwa
+			}
+
+			include = "expl_eastern_europe"
+			include = "expl_mediterranean"
+			include = "expl_silk_road_west"
+			include = "expl_silk_road_center"
+			include = "expl_silk_road_east"
+			include = "expl_indian_trade_route"
+			include = "br_pronoia_template"
+
+			country_rank = rank_kingdom
+			government = {
+			}
+			accepted_cultures = {
+				coptic_culture
+			}
+			tolerated_cultures = {
+				upper_egyptian_culture
+			}
+			
+			capital = alexandria
+		}
+		
+		AFK = { #releasable
+			our_cores_conquered_by_others = {
+				bir_el_alter
+				madjul mahres sidi_fredj bou_hajla sfaqes chebba
+				kairouan sbiba kasserine subaytila thala
+				mahdia sousse el_jem monastir
+				bejaia el_kseur mansouria bouira kalaa_of_ait_abbas setif
+				annaba cheffia jijel el_milia skikda el_kala guelma collo tekouch
+				bizerte tabarka sejnane mateur beja_TUN souk_el_arba el_kef thagaste
+				tunis tebourba el_fahs zaghouan nabeul kelibia hammamet kesra
+				constantine_ALG mila ngaous baghai dufanat bazer_sakhra tiffech tebessa meskiana tijis ikjan
+				feriana
+				bordj_bou_arreridj jama_TUN
+				el_ksour medjez_el_bab sbikha
+			}
+
+			include = "expl_eastern_europe"
+			include = "expl_mediterranean"
+			include = "expl_silk_road_west"
+			include = "expl_silk_road_center"
+			include = "expl_silk_road_east"
+			include = "expl_indian_trade_route"
+			include = "br_pronoia_template"
+
+			country_rank = rank_kingdom
+			government = {
+
+			}
+			
+			capital = tunis
+		}
+		
+	#IBERIA
+		#AD3 = { 
+			#our_cores_conquered_by_others = {
+				#caceres alcantara arroyo brozas valencia_de_alcantara #caceres_province
+				#plasencia galisteo granadilla jaraicejo valverde #plasencia_province
+				#ciudad_rodrigo coria #ciudad_rodrigo_province
+
+				#badajoz albuquerque barcarrota jerez_de_los_caballeros villanueva_del_fresno #badajoz_province
+				#elvas crato avis portalegre vila_vicosa #alto_alentejo_province
+				#moura serpa #baixo_alentejo_province
+				#merida azuaga llerena monesterio montanchez zafra #merida_province
+				#villanueva_de_la_serena belalcazar medellin zalamea #villanueva_de_la_serena_province
+				#trujillo escurial herrera puebla_de_alcocer #trujillo_province
+			#}
+			
+			#starting_technology_level = 3
+			#include = "expl_mediterranean"
+			#include = "expl_silk_road_west"
+			#include = "expl_silk_road_center"
+			#include = "expl_silk_road_east"
+			#include = "expl_indian_trade_route"
+			#include = "iberian_monarchy_no_auxilium"
+			
+			#government = {
+				#type = monarchy
+				#heir_selection = oligarchic_elective
+				#ruler = random
+				
+				#privilege = {
+					##Nobles
+					##Clergy
+					#freedom_of_interpretation
+					
+					##Burghers
+					#formal_guilds
+					#building_rights
+					#market_fairs
+					#land_of_commerce
+					#urban_development_grants
+					#commercial_advisory_council
+					#burghers_protected_faith
+					#allow_trade_center_sponsorship
+					
+					##Peasants
+					#partial_yield
+					#peasants_free_peasantry
+					
+					##Dhimmi
+					#dhimmi_land_rights
+					#dhimmi_administrative_posts
+					#dhimmi_abrahamic_communities
+					#dhimmi_pact_of_umar
+					#dhimmi_military_service
+					#dhimmi_traditions
+					#dharmic_dhimmi_communities
+					#dhimmi_promote_tolerance
+					#dhimmi_legal_autonomy
+					#dhimmi_promote_dhimmi_hierarchy
+					#dhimmi_mazalim_court
+					#dhimmi_in_administration
+				
+				#}
+				
+				#centralization_vs_decentralization = -50
+				#aristocracy_vs_plutocracy = 50
+				#serfdom_vs_free_subjects = 25
+				#traditionalist_vs_innovative = 50
+				#spiritualist_vs_humanist = 80
+				#mercantilism_vs_free_trade = 35
+				#offensive_vs_defensive = 50
+				#land_vs_naval = -20
+				#quality_vs_quantity = -30
+				#belligerent_vs_conciliatory = 50
+				#capital_economy_vs_traditional_economy = -60
+				#individualism_vs_communalism = -20
+				#outward_vs_inward = -60
+				#mysticism_vs_jurisprudence = 50
+				
+				#laws = {
+					#sharia_law = maliki_policy
+				#}
+			#}
+
+			#court_language = maghrebi_dialect
+			#religious_school = maliki_school
+			
+			#country_rank = rank_duchy
+			#capital = caceres
+			
+			#accepted_cultures = {
+				#sephardi
+			#}
+			
+		#}
+
+		#AD4 = {
+			#our_cores_conquered_by_others = {
+				#coimbra esgueira feira figueira #beira_litoral_province
+				#viseu besteiros guarda lamego meda pinhel seia trancoso #beira_alta_province
+				#covilha idanha sabugal #beira_baixa_province
+			#}
+			
+			#starting_technology_level = 3
+			#include = "expl_mediterranean"
+			#include = "expl_silk_road_west"
+			#include = "expl_silk_road_center"
+			#include = "expl_silk_road_east"
+			#include = "expl_indian_trade_route"
+			#include = "iberian_monarchy_no_auxilium"
+		
+			#government = {
+				#type = monarchy
+				#heir_selection = oligarchic_elective
+				#ruler = random
+				
+				#privilege = {
+					##Nobles
+					##Clergy
+					#freedom_of_interpretation
+					
+					##Burghers
+					#formal_guilds
+					#building_rights
+					#market_fairs
+					#land_of_commerce
+					#urban_development_grants
+					#commercial_advisory_council
+					#burghers_protected_faith
+					#allow_trade_center_sponsorship
+					
+					##Peasants
+					#partial_yield
+					#peasants_free_peasantry
+					
+					##Dhimmi
+					#dhimmi_land_rights
+					#dhimmi_administrative_posts
+					#dhimmi_abrahamic_communities
+					#dhimmi_pact_of_umar
+					#dhimmi_military_service
+					#dhimmi_traditions
+					#dharmic_dhimmi_communities
+					#dhimmi_promote_tolerance
+					#dhimmi_legal_autonomy
+					#dhimmi_promote_dhimmi_hierarchy
+					#dhimmi_mazalim_court
+					#dhimmi_in_administration
+					
+				#}
+				
+				#centralization_vs_decentralization = -50
+				#aristocracy_vs_plutocracy = 50
+				#serfdom_vs_free_subjects = 25
+				#traditionalist_vs_innovative = 50
+				#spiritualist_vs_humanist = 80
+				#mercantilism_vs_free_trade = 35
+				#offensive_vs_defensive = 50
+				#land_vs_naval = -20
+				#quality_vs_quantity = -30
+				#belligerent_vs_conciliatory = 50
+				#capital_economy_vs_traditional_economy = -60
+				#individualism_vs_communalism = -20
+				#outward_vs_inward = -60
+				#mysticism_vs_jurisprudence = 50
+				
+				#laws = {
+					#sharia_law = maliki_policy
+				#}
+			#}
+
+			#court_language = maghrebi_dialect
+			#religious_school = maliki_school
+			
+			#country_rank = rank_duchy
+			#capital = coimbra
+			
+			#accepted_cultures = {
+				#sephardi
+			#}
+			
+		#}
+
+		#AD5 = { #TOLEDO
+			#our_cores_conquered_by_others = {
+				#toledo guadalupe illescas los_yebenes navalucillos puebla_de_montalban puente_arzobispo talavera_de_la_reina #toledo_province
+				#chinchon consuegra ocana alcazar_de_san_juan tomelloso ucles #ocana_province
+				#buitrago_de_lozoya guadalajara brihuega cobeta siguenza zorita #guadalajara_province
+				#cuenca beteta canete huete molina_de_aragon pareja torralba #cuenca_province
+				#madrid alcala_de_henares colmenar el_escorial maqueda #madrid_province
+				#adrada las_navas oropesa #avila_province
+				##alarcon belmonte iniesta jorquera moya san_clemente #alarcon_province
+				##alcaraz lezuza alhambra_location montiel villapalacios villarobledo #east_mancha_province
+				##ciudad_real almaden almodovar_del_campo calatrava malagon manzanares puertollano #west_mancha_province
+			#}
+			
+			#starting_technology_level = 3
+			#include = "expl_mediterranean"
+			#include = "expl_silk_road_west"
+			#include = "expl_silk_road_center"
+			#include = "expl_silk_road_east"
+			#include = "expl_indian_trade_route"
+			#include = "iberian_monarchy_no_auxilium"
+			
+			#government = {
+				#type = monarchy
+				#heir_selection = oligarchic_elective
+				#ruler = random
+				
+				#privilege = {
+					##Nobles
+					##Clergy
+					#freedom_of_interpretation
+					
+					##Burghers
+					#formal_guilds
+					#building_rights
+					#market_fairs
+					#land_of_commerce
+					#urban_development_grants
+					#commercial_advisory_council
+					#burghers_protected_faith
+					#allow_trade_center_sponsorship
+					
+					##Peasants
+					#partial_yield
+					#peasants_free_peasantry
+					
+					##Dhimmi
+					#dhimmi_land_rights
+					#dhimmi_administrative_posts
+					#dhimmi_abrahamic_communities
+					#dhimmi_pact_of_umar
+					#dhimmi_military_service
+					#dhimmi_traditions
+					#dharmic_dhimmi_communities
+					#dhimmi_promote_tolerance
+					#dhimmi_legal_autonomy
+					#dhimmi_promote_dhimmi_hierarchy
+					#dhimmi_mazalim_court
+					#dhimmi_in_administration
+					
+				#}
+				
+				#centralization_vs_decentralization = -50
+				#aristocracy_vs_plutocracy = 50
+				#serfdom_vs_free_subjects = 25
+				#traditionalist_vs_innovative = 50
+				#spiritualist_vs_humanist = 80
+				#mercantilism_vs_free_trade = 35
+				#offensive_vs_defensive = 50
+				#land_vs_naval = -20
+				#quality_vs_quantity = -30
+				#belligerent_vs_conciliatory = 50
+				#capital_economy_vs_traditional_economy = -60
+				#individualism_vs_communalism = -20
+				#outward_vs_inward = -60
+				#mysticism_vs_jurisprudence = 50
+				
+				#laws = {
+					#sharia_law = maliki_policy
+				#}
+			#}
+
+			#court_language = maghrebi_dialect
+			#religious_school = maliki_school
+			
+			#country_rank = rank_duchy
+			#capital = toledo
+			
+			#accepted_cultures = {
+				#sephardi
+			#}
+			
+		#}
+
+		#AD6 = {
+			#our_cores_conquered_by_others = {
+				#valencia bunol chelva lliria #valencia_province
+				#ibiza
+				#orihuela alicante elche #orihuela_province
+				#jativa alcoy ayora denia gandia #jativa_province
+				#castellon_de_la_plana ares_del_maestre llucena morella peniscola #castellon_province
+			#}
+			
+			#starting_technology_level = 3
+			#include = "expl_mediterranean"
+			#include = "expl_silk_road_west"
+			#include = "expl_silk_road_center"
+			#include = "expl_silk_road_east"
+			#include = "expl_indian_trade_route"
+			#include = "iberian_monarchy_no_auxilium"
+			
+			#government = {
+				#type = monarchy
+				#heir_selection = oligarchic_elective
+				#ruler = random
+				
+				#privilege = {
+					##Nobles
+					##Clergy
+					#freedom_of_interpretation
+					
+					##Burghers
+					#formal_guilds
+					#building_rights
+					#market_fairs
+					#land_of_commerce
+					#urban_development_grants
+					#commercial_advisory_council
+					#burghers_protected_faith
+					#allow_trade_center_sponsorship
+					
+					##Peasants
+					#partial_yield
+					#peasants_free_peasantry
+					
+					##Dhimmi
+					#dhimmi_land_rights
+					#dhimmi_administrative_posts
+					#dhimmi_abrahamic_communities
+					#dhimmi_pact_of_umar
+					#dhimmi_military_service
+					#dhimmi_traditions
+					#dharmic_dhimmi_communities
+					#dhimmi_promote_tolerance
+					#dhimmi_legal_autonomy
+					#dhimmi_promote_dhimmi_hierarchy
+					#dhimmi_mazalim_court
+					#dhimmi_in_administration
+					
+				#}
+				
+				#centralization_vs_decentralization = -50
+				#aristocracy_vs_plutocracy = 50
+				#serfdom_vs_free_subjects = 25
+				#traditionalist_vs_innovative = 50
+				#spiritualist_vs_humanist = 80
+				#mercantilism_vs_free_trade = 35
+				#offensive_vs_defensive = 50
+				#land_vs_naval = -20
+				#quality_vs_quantity = -30
+				#belligerent_vs_conciliatory = 50
+				#capital_economy_vs_traditional_economy = -60
+				#individualism_vs_communalism = -20
+				#outward_vs_inward = -60
+				#mysticism_vs_jurisprudence = 50
+				
+				#laws = {
+					#sharia_law = maliki_policy
+				#}
+			#}
+
+			#court_language = maghrebi_dialect
+			#religious_school = maliki_school
+			
+			#country_rank = rank_duchy
+			#capital = valencia
+			
+			#accepted_cultures = {
+				#sephardi
+			#}
+			
+		#}
+
+ #---------------------------- BR Added Tags ----------------------------
+  #Italian
+	GTC = { 
+		#our_cores_conquered_by_others = { chios lemnos amasra tana samos ikaria foca }
+		
+		type = building
+		starting_technology_level = 3
+		
+		capital = kaffa
+
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "catholic_republic"
+		government = {
+			type = republic
+			heir_selection = bank_selection
+			ruler = random
+
+			laws = {
+				republican_foundation_law = meritocratic_rule_policy
+				heir_religion_law = heir_same_religion
+				marriage_law = monogamous_marriage
+				censorship = limited_censorship
+				education_masses_law = apprenticeships_education
+				administrative_system = local_courts_administration
+				cultural_traditions_law = maritime_society
+				legal_code_law = court_of_appeals
+				maritime_law = protect_trade_routes
+				piracy_law = anti_piracy_policy
+				distribution_of_power_law = dop_favor_the_burghers
+			}
+			reforms = {
+				br_special_merchant_republic
+				trade_office_network
+			}
+			
+			privilege = {
+				recognized_communes
+				feudal_mercenary_contracts
+				increased_civic_engagement
+				noble_sponsored_navy
+				nobles_protected_faith
+
+				peasants_protected_faith
+				peasants_autonomous_villages
+
+				urban_development_grants
+				allow_trade_center_sponsorship
+				guild_investments
+				#burghers
+				land_of_commerce
+				sponsor_maritime_contracts
+				shipwright_contracts
+				market_fairs
+				br_special_trade_companies
+			}
+
+			centralization_vs_decentralization = 25
+			aristocracy_vs_plutocracy = 100
+			serfdom_vs_free_subjects = 75
+			traditionalist_vs_innovative = 50
+			spiritualist_vs_humanist = 80
+			mercantilism_vs_free_trade = 75
+			offensive_vs_defensive = 75
+			land_vs_naval = 100
+			quality_vs_quantity = -50
+			belligerent_vs_conciliatory = 100
+			capital_economy_vs_traditional_economy = -100
+			individualism_vs_communalism = -100
+			outward_vs_inward = -100
+		}
+		currency_data = {
+			gold = 2500
+			prestige = 75
+			stability = 100
+			government_power = 100
+		}
+		country_rank = rank_duchy
+	}
+
+	VTC = { 
+		#our_cores_conquered_by_others = { andros mykonos amorgos karpathos samos ikaria foca }
+
+		type = building
+		starting_technology_level = 3
+		
+		capital = thessaloniki
+
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "catholic_republic"
+		government = {
+			type = republic
+			heir_selection = bank_selection
+			ruler = random
+
+			laws = {
+				republican_foundation_law = meritocratic_rule_policy
+				heir_religion_law = heir_same_religion
+				marriage_law = monogamous_marriage
+				censorship = limited_censorship
+				education_masses_law = apprenticeships_education
+				administrative_system = local_courts_administration
+				cultural_traditions_law = maritime_society
+				legal_code_law = court_of_appeals
+				maritime_law = protect_trade_routes
+				piracy_law = anti_piracy_policy
+				distribution_of_power_law = dop_favor_the_burghers
+			}
+			reforms = {
+				br_special_merchant_republic
+				trade_office_network
+			}
+			
+			privilege = {
+				recognized_communes
+				feudal_mercenary_contracts
+				increased_civic_engagement
+				noble_sponsored_navy
+				nobles_protected_faith
+
+				peasants_protected_faith
+				peasants_autonomous_villages
+
+				urban_development_grants
+				allow_trade_center_sponsorship
+				guild_investments
+				#burghers
+				land_of_commerce
+				sponsor_maritime_contracts
+				shipwright_contracts
+				market_fairs
+				br_special_trade_companies
+			}
+
+			centralization_vs_decentralization = 25
+			aristocracy_vs_plutocracy = 100
+			serfdom_vs_free_subjects = 75
+			traditionalist_vs_innovative = 50
+			spiritualist_vs_humanist = 80
+			mercantilism_vs_free_trade = 75 #Maybe it should be the other direction?
+			offensive_vs_defensive = 75
+			land_vs_naval = 100
+			quality_vs_quantity = -50
+			belligerent_vs_conciliatory = 100
+			capital_economy_vs_traditional_economy = -100
+			individualism_vs_communalism = -100
+			outward_vs_inward = -100
+		}
+		currency_data = {
+			gold = 2500
+			prestige = 75
+			stability = 100
+			government_power = 100
+		}
+		country_rank = rank_duchy
+	}
+
+	BNV = {
+		our_cores_conquered_by_others = {
+			lanciano vasto bojano
+			melfi benevento
+			avellino santangelo
+			isernia larino trivento andria barletta bovino foggia lucera
+			manfredonia rotondo sansevero
+			ariano venafro piedimonte
+		}
+		
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "catholic_monarchy"
+		include = "feudal_europe"
+		government = {
+			type = monarchy
+			heir_selection = salic_law
+			
+			ruler_term = { character = br_nap_rdm_character_1 start_date = 1335.1.1 }
+			ruler = br_nap_rdm_character_1
+
+			centralization_vs_decentralization = 30
+			traditionalist_vs_innovative = -30
+			spiritualist_vs_humanist = -50
+			aristocracy_vs_plutocracy = -60
+			mercantilism_vs_free_trade = 0
+			
+			reforms = {
+			}
+			
+			privilege = {
+				formal_guilds
+			}
+		}
+
+		capital = lucera #benevento
+		country_rank = rank_duchy
+	}
+	
+	N1P = {
+		our_cores_conquered_by_others = {
+			salerno vallo campagna salacon 
+		}
+		
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "catholic_monarchy"
+		include = "feudal_europe"
+		government = {
+			type = monarchy
+			heir_selection = salic_law
+			
+			ruler_term = { character = br_nap_rdm_character_2 start_date = 1335.1.1 }
+			ruler = br_nap_rdm_character_2
+			
+			centralization_vs_decentralization = 30
+			traditionalist_vs_innovative = -30
+			spiritualist_vs_humanist = -50
+			aristocracy_vs_plutocracy = -60
+			mercantilism_vs_free_trade = 0
+			
+			reforms = {
+			}
+			
+			privilege = {
+				formal_guilds
+			}
+		}
+		capital = salerno
+		country_rank = rank_duchy
+	}
+
+	N2P = {
+		our_cores_conquered_by_others = {
+			caserta gaeta
+		}
+		
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "catholic_monarchy"
+		include = "feudal_europe"
+		government = {
+			type = monarchy
+			heir_selection = salic_law
+			
+			ruler_term = { character = br_nap_rdm_character_3 start_date = 1335.1.1 }
+			ruler = br_nap_rdm_character_3
+			
+			centralization_vs_decentralization = 30
+			traditionalist_vs_innovative = -30
+			spiritualist_vs_humanist = -50
+			aristocracy_vs_plutocracy = -60
+			mercantilism_vs_free_trade = 0
+			
+			reforms = {
+			}
+			
+			privilege = {
+				formal_guilds
+			}
+		}
+		capital = gaeta
+		country_rank = rank_duchy
+	}
+
+	N3P = {
+		our_cores_conquered_by_others = {
+			naples nola
+		}
+		
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "br_pronoia_template"
+		government = {
+			
+			ruler_term = { character = br_ere_rdm_character_81 start_date = 1335.1.1 }
+			ruler = br_ere_rdm_character_81
+
+		}
+		capital = naples
+		country_rank = rank_duchy
+	}
+
+	#Sikelanoi
+	S1C = {
+		our_cores_conquered_by_others = {
+			catania messina mistretta nicosiasic patti piazza
+			caltagirone modica noto syracuse terranovasic
+			palermo trapani mazara salemi corleone
+			termini cefalu sciacca girgenti bivona caltanisetta
+		}
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "br_pronoia_template"
+		government = {
+			
+			ruler_term = { character = br_ere_rdm_character_51 start_date = 1297.11.1 }
+			ruler = br_ere_rdm_character_51
+		}
+		
+		accepted_cultures = {
+			greek_culture
+		}
+		
+		country_rank = rank_duchy
+		liturgical_language = koine_dialect
+		capital = syracuse # lecce
+	}
+	#Longobardías
+	S2C = {
+		our_cores_conquered_by_others = {
+			lecce francavilla brindisi gallipoliita taranto martinafr
+			monopoli altamura bari
+		}
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "br_pronoia_template"
+		government = {
+			
+			ruler_term = { character = br_ere_rdm_character_48 start_date = 1335.1.1 }
+			ruler = br_ere_rdm_character_48
+		}
+		
+		accepted_cultures = {
+			greek_culture
+		}
+		
+		country_rank = rank_duchy
+		liturgical_language = koine_dialect
+		capital = lecce
+	}
+
+	#Kalavrías
+	S3C = {
+		our_cores_conquered_by_others = {
+			cotrone gerace monteleone nicastro palmi reggiocal catanzaro
+			paola cosenza castrovillari cassano scalea rossano
+		}
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "br_pronoia_template"
+		government = {
+			
+			ruler_term = { character = br_ere_rdm_character_54 start_date = 1297.11.1 }
+			ruler = br_ere_rdm_character_54
+		}
+		
+		accepted_cultures = {
+			greek_culture
+		}
+		
+		country_rank = rank_duchy
+		liturgical_language = koine_dialect
+		capital = syracuse # lecce
+	}
+
+	S5C = {
+		our_cores_conquered_by_others = {
+			matera
+			lagonegro
+			santarcangelo
+			montepeloso potenza acerenza
+		}
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "br_pronoia_template"
+		government = {
+			
+			ruler_term = { character = br_ere_rdm_character_78 start_date = 1335.1.1 }
+			ruler = br_ere_rdm_character_78
+		}
+		
+		accepted_cultures = {
+			greek_culture
+		}
+		
+		country_rank = rank_duchy
+		liturgical_language = koine_dialect
+		capital = matera
+	}
+
+	S4C = { #Ṣiqilliyya
+		our_cores_conquered_by_others = {
+			palermo trapani mazara salemi corleone
+			termini cefalu sciacca girgenti bivona caltanisetta
+			#Sardinia
+			tratalias villa_di_chiesa cagliari muravera
+			catania messina mistretta nicosiasic patti piazza
+			caltagirone modica noto syracuse terranovasic
+		}
+		
+		starting_technology_level = 3
+		include = "expl_muslim_mediterranean"
+		include = "muslim_monarchy_no_abrahamic_dhimmi"
+		country_rank = rank_duchy
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+
+			ruler_term = { character = tun_abu_l_baqa_khalid_an_nasr start_date = 1309.1.1 end_date = 1311.1.1 regnal_number = 1 }
+			ruler_term = { character = tun_abu_yahya_abu_bakr_ii start_date = 1318.1.1 regnal_number = 2 }
+			ruler = tun_abu_yahya_abu_bakr_ii
+			
+			regnal_numbers = {
+				Abd_al-Wahid = 1
+				name_abdullah = 1
+				name_john = 2
+				name_muhammad = 2
+				name_abraham = 1
+				name_abd_al_aziz = 1
+				name_omar = 1
+				Khalid = 1
+				name_zechariah = 1
+				Abu_Bakr = 1
+			}
+
+			
+			land_vs_naval = 50
+			laws = {
+				piracy_law = state_piracy_policy
+			}
+			privilege = {
+				#Nobles
+				noble_sponsored_navy
+				#Ulama
+				clergy_literacy_rights
+				clergy_enforced_unity
+				embellish_great_works_of_faith
+				clergy_land_rights
+				freedom_of_interpretation
+				
+				#Burghers
+				formal_guilds
+				building_rights
+				market_fairs
+				shipwright_contracts
+				sponsor_maritime_contracts
+				land_of_commerce
+				urban_development_grants
+				commercial_advisory_council
+				burghers_protected_faith
+				allow_trade_center_sponsorship
+				
+				#Dhimmi
+				dhimmi_land_rights
+				dhimmi_administrative_posts
+				dhimmi_abrahamic_communities
+				dhimmi_pact_of_umar
+				dhimmi_military_service
+				dhimmi_traditions
+				dharmic_dhimmi_communities
+				dhimmi_promote_tolerance
+				dhimmi_legal_autonomy
+				dhimmi_promote_dhimmi_hierarchy
+				dhimmi_mazalim_court
+				dhimmi_in_administration
+			}
+			laws = {
+				amazigh_familial_connections = reliance_on_local_tribes
+				sharia_law = maliki_policy
+			}
+		}
+		religious_school = maliki_school
+		government = { mysticism_vs_jurisprudence = -5 }
+		 #accepted_cultures = { arab_sicilian }
+		tolerated_cultures = {
+			griko_culture
+			sardinian
+		}
+		
+		capital = palermo
+		dynasty = hafsid_dynasty
+	}
+
+  #Balkan Tags
+	#Banks 
+	BNK = {	#Bankaropoulos
+		type = building
+		starting_technology_level = 3
+		include = "catholic_republic_not_present"
+		
+		capital = constantinople
+		government = {
+			type = republic
+			heir_selection = bank_selection
+			reforms = {	banking_country }
+			
+			centralization_vs_decentralization = 20
+			aristocracy_vs_plutocracy = 70
+			serfdom_vs_free_subjects = 70
+			traditionalist_vs_innovative = 30
+			spiritualist_vs_humanist = 20
+			mercantilism_vs_free_trade = -40
+			belligerent_vs_conciliatory = 75
+			quality_vs_quantity = -20
+			offensive_vs_defensive = 30
+			land_vs_naval = 40
+			capital_economy_vs_traditional_economy = -50
+			individualism_vs_communalism = -50
+			outward_vs_inward = -90
+			laws = {
+				marriage_law = monogamous_marriage
+				heir_religion_law = heir_same_religion
+			}
+			
+			ruler = random
+		}
+		
+		country_rank = rank_county
+		currency_data = {
+			gold = 5000
+			stability = 100
+			government_power = 100
+		}
+		
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+	}
+	
+	MKB = {	#Makrembolitēs
+		type = building
+		starting_technology_level = 3
+		include = "catholic_republic_not_present"
+		
+		capital = constantinople
+		government = {
+			type = republic
+			heir_selection = bank_selection
+			reforms = {	banking_country }
+			ruler = br_ere_rdm_character_84
+			
+			centralization_vs_decentralization = 20
+			aristocracy_vs_plutocracy = 70
+			serfdom_vs_free_subjects = 70
+			traditionalist_vs_innovative = 30
+			spiritualist_vs_humanist = 20
+			mercantilism_vs_free_trade = -40
+			belligerent_vs_conciliatory = 50
+			quality_vs_quantity = -20
+			offensive_vs_defensive = 30
+			land_vs_naval = 40
+			capital_economy_vs_traditional_economy = -50
+			individualism_vs_communalism = -50
+			outward_vs_inward = -90
+			laws = {
+				marriage_law = monogamous_marriage
+				heir_religion_law = heir_same_religion
+			}
+
+		}
+		
+		country_rank = rank_county
+		currency_data = {
+			gold = 5000
+			stability = 100
+			government_power = 100
+		}
+		
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+	}
+	
+	CHY = {	#Chrysotrapeziōtai
+		type = building
+		starting_technology_level = 3
+		include = "catholic_republic_not_present"
+		
+		capital = constantinople
+		government = {
+			type = republic
+			heir_selection = bank_selection
+			reforms = {	banking_country }
+			ruler = br_ere_rdm_character_89 #br_ere_rdm_character_45
+			
+			centralization_vs_decentralization = 20
+			aristocracy_vs_plutocracy = 70
+			serfdom_vs_free_subjects = 70
+			traditionalist_vs_innovative = 30
+			spiritualist_vs_humanist = 20
+			mercantilism_vs_free_trade = -40
+			belligerent_vs_conciliatory = 50
+			quality_vs_quantity = -20
+			offensive_vs_defensive = 30
+			land_vs_naval = 40
+			capital_economy_vs_traditional_economy = -50
+			individualism_vs_communalism = -50
+			outward_vs_inward = -90
+			laws = {
+				marriage_law = monogamous_marriage
+				heir_religion_law = heir_same_religion
+			}
+		}
+		
+		country_rank = rank_county
+		currency_data = {
+			gold = 5000
+			stability = 100
+			government_power = 100
+		}
+		
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+	}
+	
+	DYR = { #BR EDITED
+		our_cores_conquered_by_others = {
+			berat ballsh kavaje durres
+			elbasan kruje tirana devol debar
+			kleisoura_epirus avlonya # butrint argyrokastro konitsa 
+		}
+		
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "br_pronoia_template"
+		government = {
+			
+			ruler_term = { character = br_ere_rdm_character_01 start_date = 1335.1.1 }
+			ruler = br_ere_rdm_character_01
+		}
+		
+		tolerated_cultures = {
+			latinoi
+			albanian
+		}
+
+		currency_data = {
+			gold = 600
+		}
+
+		timed_modifier = {
+			modifier = "br_levy_size_modifier"
+			start_date = 1333.1.1
+			date = 1340.1.1
+			size = 1
+		}
+		
+		country_rank = rank_duchy
+		liturgical_language = koine_dialect
+		
+		capital = durres
+	}
+	
+	B1L = {
+		our_cores_conquered_by_others = {
+			ohrid bitola prilep florina kicevo tetovo
+			prosek skopje kumanovo veles kratovo
+			velbuzd
+			shtip kocani strumica vranje
+		}
+		
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "eastern_european_monarchy"
+		country_rank = rank_duchy
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+
+			ruler_term = { character = br_balkan_rdm_character_5 start_date = 1333.1.1 }
+			ruler = br_balkan_rdm_character_5
+			
+			regnal_numbers = {
+				name_peter = 2
+				Ivan_Asen = 3
+				name_michael = 3
+				name_constantine = 1
+				name_george = 2
+				name_theodore = 1
+				name_john.name_stephen = 1
+				name_john.name_alexander = 1
+			}
+			
+			reforms = {
+				autocracy
+			}
+			privilege = {
+				primacy_of_nobility
+				peasants_allowed_weapons_privilege
+				br_tsar_bulgars_romans
+			}
+		}
+		accepted_cultures = {
+			boulgaroi
+			greek_culture
+		}
+		tolerated_cultures = {
+			serbian
+		}
+
+		court_language = boulgaroi_dialect
+		liturgical_language = church_slavonic_language
+		dynasty = sratsimir_dynasty
+		capital = skopje
+	}
+	
+	B0L = {
+		our_cores_conquered_by_others = {
+			karvuna pangalia kaliakra
+			babadag cernavoda constanta enisala isaccea
+			tulcea harsova
+		}
+		
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "br_pronoia_template"
+		country_rank = rank_county
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+
+			ruler_term = { character = br_ere_rdm_character_21 start_date = 1329.9.25 } 
+			ruler = br_ere_rdm_character_21
+		}
+
+		tolerated_cultures = {
+			wallachian
+		}
+
+		liturgical_language = koine_dialect
+		
+		capital = constanta
+	}
+
+	#Wallachia
+
+	WA0 = {	#Wallachia
+		our_cores_conquered_by_others = {
+			severin strehaia targu_jiu targu_bengai ramnicu_valcea craiova caracal calafat corabia dragasani plenita
+			stramba radovanu cozia
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "eastern_european_monarchy_no_coast"
+		
+		government = {
+			
+			ruler_term = { character = br_balkan_rdm_character_3 start_date = 1333.1.1 }
+			ruler = br_balkan_rdm_character_3
+			
+			centralization_vs_decentralization = 70
+			aristocracy_vs_plutocracy = -50
+			serfdom_vs_free_subjects = -90
+			traditionalist_vs_innovative = -30
+			spiritualist_vs_humanist = -50
+			mercantilism_vs_free_trade = -60
+			offensive_vs_defensive = 20
+			land_vs_naval = -20
+			quality_vs_quantity = 15
+			belligerent_vs_conciliatory = -20
+			capital_economy_vs_traditional_economy = 95
+			individualism_vs_communalism = -20
+			outward_vs_inward = 20
+		}
+		
+		accepted_cultures = {
+			bulgarian
+		}
+		
+		court_language = boulgaroi_dialect
+		liturgical_language = church_slavonic_language
+		
+		country_rank = rank_county
+		capital = severin
+	}
+	
+	WA1 = {	#Wallachia
+		our_cores_conquered_by_others = {
+			targoviste ploesti campulung_muscel arges bucharest pitesti poenari cetateni glavacioc gaiseni gratia
+			slanic rusii_de_vede zimnicea giurgiu comana slatina turnu_magurele lichiresti
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "eastern_european_monarchy_no_coast"
+		
+		government = {
+			
+			ruler_term = { character = br_balkan_rdm_character_2 start_date = 1333.1.1 }
+			ruler = br_balkan_rdm_character_2
+			
+			centralization_vs_decentralization = 70
+			aristocracy_vs_plutocracy = -50
+			serfdom_vs_free_subjects = -90
+			traditionalist_vs_innovative = -30
+			spiritualist_vs_humanist = -50
+			mercantilism_vs_free_trade = -60
+			offensive_vs_defensive = 20
+			land_vs_naval = -20
+			quality_vs_quantity = 15
+			belligerent_vs_conciliatory = -20
+			capital_economy_vs_traditional_economy = 95
+			individualism_vs_communalism = -20
+			outward_vs_inward = 20
+		}
+		
+		accepted_cultures = {
+			bulgarian
+		}
+		
+		court_language = boulgaroi_dialect
+		liturgical_language = church_slavonic_language
+		
+		country_rank = rank_county
+		capital = targoviste
+	}
+	
+	WA2 = {	#Wallachia
+		our_cores_conquered_by_others = { 
+			buzau orasul_de_floci braila ramnicu_sarat slobozia viziru parscov meteleu bukov cegani 
+			valenii_de_munte
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "eastern_european_monarchy_no_coast"
+		
+		government = {
+			
+			ruler_term = { character = br_ere_rdm_character_39 start_date = 1333.1.1 }
+			ruler = br_ere_rdm_character_39
+			
+			centralization_vs_decentralization = 70
+			aristocracy_vs_plutocracy = -50
+			serfdom_vs_free_subjects = -90
+			traditionalist_vs_innovative = -30
+			spiritualist_vs_humanist = -50
+			mercantilism_vs_free_trade = -60
+			offensive_vs_defensive = 20
+			land_vs_naval = -20
+			quality_vs_quantity = 15
+			belligerent_vs_conciliatory = -20
+			capital_economy_vs_traditional_economy = 95
+			individualism_vs_communalism = -20
+			outward_vs_inward = 20
+		}
+		
+		accepted_cultures = {
+			bulgarian
+		}
+		
+		court_language = boulgaroi_dialect
+		liturgical_language = church_slavonic_language
+		
+		country_rank = rank_county
+		capital = buzau
+	}
+	
+	#Serbia
+	SE0 = {
+		our_cores_conquered_by_others = {
+			ravno kucevo branicevo
+			stalac
+			krusevac jagodina zica
+			rudnik
+		}
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "eastern_european_monarchy"
+		country_rank = rank_duchy
+		government = {
+			
+			ruler_term = { character = br_balkan_rdm_character_6 start_date = 1333.1.1 }
+			ruler = br_balkan_rdm_character_6
+			
+			reforms = {
+				autocracy
+			}
+			privilege = {
+				feudal_mercenary_contracts
+				primacy_of_nobility
+				auxilium_et_consilium
+				peasants_allowed_weapons_privilege
+			}
+			laws = {
+				feudal_de_jure_law = by_tradition
+				medieval_levy_law = noble_levies
+				royal_court_customs_law = aristocratic_court_policy
+				administrative_system = feudal_administration
+				distribution_of_power_law = dop_traditional_distribution_of_power
+			}
+			
+			quality_vs_quantity = 15
+			belligerent_vs_conciliatory = -10
+			
+		}
+		tolerated_cultures = {
+		}
+		
+		court_language = boulgaroi_dialect
+		liturgical_language = church_slavonic_language
+		
+		capital = branicevo
+	}
+	
+	SE1 = {
+		our_cores_conquered_by_others = {
+			belgrad smederevo
+			debrc sabac krupanj valjevo
+			gradac
+		}
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "eastern_european_monarchy"
+		country_rank = rank_duchy
+		government = {
+			
+			ruler_term = { character = br_balkan_rdm_character_1 start_date = 1333.1.1 }
+			ruler = br_balkan_rdm_character_1
+			
+			reforms = {
+				autocracy
+			}
+			privilege = {
+				feudal_mercenary_contracts
+				primacy_of_nobility
+				auxilium_et_consilium
+				peasants_allowed_weapons_privilege
+			}
+			laws = {
+				feudal_de_jure_law = by_tradition
+				medieval_levy_law = noble_levies
+				royal_court_customs_law = aristocratic_court_policy
+				administrative_system = feudal_administration
+				distribution_of_power_law = dop_traditional_distribution_of_power
+			}
+			
+			quality_vs_quantity = 15
+			belligerent_vs_conciliatory = -10
+			
+		}
+		tolerated_cultures = {
+		}
+		
+		court_language = boulgaroi_dialect
+		liturgical_language = church_slavonic_language
+		
+		capital = belgrad
+	}
+
+	SE2 = {
+		our_cores_conquered_by_others = {
+			nis glubocica vranje
+			prokuplje medveda
+			novo_brdo
+			pristina
+		}
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "eastern_european_monarchy"
+		country_rank = rank_duchy
+		government = {
+			
+			ruler_term = { character = br_balkan_rdm_character_4 start_date = 1333.1.1 }
+			ruler = br_balkan_rdm_character_4
+			
+			reforms = {
+				autocracy
+			}
+			privilege = {
+				feudal_mercenary_contracts
+				primacy_of_nobility
+				auxilium_et_consilium
+				peasants_allowed_weapons_privilege
+			}
+			laws = {
+				feudal_de_jure_law = by_tradition
+				medieval_levy_law = noble_levies
+				royal_court_customs_law = aristocratic_court_policy
+				administrative_system = feudal_administration
+				distribution_of_power_law = dop_traditional_distribution_of_power
+			}
+			
+			quality_vs_quantity = 15
+			belligerent_vs_conciliatory = -10
+			
+		}
+		tolerated_cultures = {
+		}
+		
+		court_language = boulgaroi_dialect
+		liturgical_language = church_slavonic_language
+		
+		capital = nis
+	}
+
+	SE3 = {
+		our_cores_conquered_by_others = {
+			sremska_mitrovica petrovaradin ilok
+		}
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "eastern_european_monarchy"
+		country_rank = rank_county
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = random
+			
+			reforms = {
+				autocracy
+			}
+			privilege = {
+				feudal_mercenary_contracts
+				primacy_of_nobility
+				auxilium_et_consilium
+				peasants_allowed_weapons_privilege
+			}
+			laws = {
+				feudal_de_jure_law = by_tradition
+				medieval_levy_law = noble_levies
+				royal_court_customs_law = aristocratic_court_policy
+				administrative_system = feudal_administration
+				distribution_of_power_law = dop_traditional_distribution_of_power
+			}
+			
+			quality_vs_quantity = 15
+			belligerent_vs_conciliatory = -10
+			
+		}
+		tolerated_cultures = {
+		}
+		
+		liturgical_language = church_slavonic_language
+		
+		capital = sremska_mitrovica
+	}
+
+
+  #Anatolian Tags
+
+	AOI = {
+		our_cores_conquered_by_others = {
+			antioch arsuz iskenderun
+			trapessac artah idlib latakia
+		}
+		
+		starting_technology_level = 3
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			
+			ruler_term = { character = tre_michael_komnenos start_date = 1333.1.1 }
+			ruler = tre_michael_komnenos
+		}
+		
+		accepted_cultures = {
+			syriac_culture
+		}
+		
+		currency_data = {
+			gold = 1500
+			stability = 100
+			army_tradition = 100
+			government_power = 100
+		}
+
+		liturgical_language = koine_dialect
+		country_rank = rank_duchy
+		capital = antioch
+	}
+
+	OHS = { #Brotherhood of the Holy Sepulchre
+		own_control_integrated = {
+			kapan ulnia enguzud
+		}
+		our_cores_conquered_by_others = {
+			#Holy Land cores
+			jerusalem acre beersheba gaza hebron majdal nablus safed jaffa
+		}
+	#	control = {
+	#		marash
+	#	}
+		
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "orthodox_military_order"
+		
+		government = {
+			type = theocracy
+			ruler = random
+		}
+		
+		currency_data = {
+			gold = 500
+			stability = 75
+			army_tradition = 100
+			government_power = 100
+		}
+		accepted_cultures = { armenian_culture }
+		
+		liturgical_language = koine_dialect
+		country_rank = rank_duchy
+		capital = ulnia
+
+		timed_modifier = {
+			modifier = "br_levy_size_modifier"
+			start_date = 1333.1.1
+			date = 1375.1.1
+			size = 1
+		}
+
+	}
+
+	SGO = { #Brotherhood of Saint George
+		our_cores_conquered_by_others = {
+			costa tuapse
+		}
+		
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "orthodox_military_order"
+		
+		government = {
+			type = theocracy
+			ruler = random
+		}
+		
+		currency_data = {
+			gold = 500
+			stability = 75
+			army_tradition = 100
+			government_power = 100
+		}
+		accepted_cultures = { armenian_culture }
+		
+		liturgical_language = koine_dialect
+		country_rank = rank_duchy
+		capital = costa
+
+		timed_modifier = {
+			modifier = "br_levy_size_modifier"
+			start_date = 1333.1.1
+			date = 1375.1.1
+			size = 1
+		}
+
+	}
+
+	#Russia
+	ZAZ = { #Zaporozhia
+		type = army
+		
+		our_cores_conquered_by_others = {
+			kichkas rozdory hryshyne pavlohrad 
+			yelanets usivka mala_vyska umanske ingul petrove 
+			karlivka kolomak berestyn samarchyk oril ternivka
+			kodak myshuryn_rih sofiivka kryvyi_rih tomakivka mykytyn_rih
+			adalaga barvinkove
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "eurasian_horde"
+		court_language = ukrainian_dialect
+		
+		government = {
+			type = steppe_horde
+			heir_selection = tribal_oldest_male
+			ruler = random
+			reforms = {
+				cossacks_reform
+			}
+
+			privilege = {
+				cossack_identity
+				cossacks_land_rights
+				cossacks_sanctioned_atamans
+				cossacks_allowed_free_roaming
+				cossacks_government_positions
+				cossacks_military_service
+				cossacks_protected_faith
+				cossacks_respected_traditions
+				cossacks_rada_autonomy
+				cossacks_register
+			}
+
+			centralization_vs_decentralization = 80
+			spiritualist_vs_humanist = -80
+			serfdom_vs_free_subjects = 80
+			offensive_vs_defensive = -100
+			land_vs_naval = -100
+			individualism_vs_communalism = 80
+			outward_vs_inward = 80
+			
+			laws = {
+				marriage_law = monogamous_marriage
+				heir_religion_law = heir_same_religion
+			}
+		}
+		#timed_modifier = {
+		#	modifier = "br_levy_size_modifier"
+		#	start_date = 1333.1.1
+		#	date = 1338.1.1
+		#	size = 2
+		#}
+		capital = kodak
+	}
+	
+	
+	RH0 = { #Order of Saint Vladimir
+		our_cores_conquered_by_others = {
+			qirq_yer buzhskyi pohrebyshche drahushiv
+			#Crimea
+			qarasuvbazar solkhat
+		}
+	#	control = {
+	#		bratslav balta bershad karabul savran
+	#		torhovytsia teplyk tsybuliv uman zavallia
+	#		vinnytsia sokilets
+	#		armavir
+	#		qarasuvbazar solkhat
+	#		ismail
+	#		or_qapi
+	#	}
+		
+		starting_technology_level = 3
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "orthodox_military_order"
+		
+		government = {
+			type = theocracy
+			ruler = random
+
+		}
+		
+		currency_data = {
+			gold = 800
+			stability = 100
+			army_tradition = 100
+			government_power = 100
+		}
+		accepted_cultures = { gothic_culture }
+		
+		liturgical_language = koine_dialect
+		country_rank = rank_duchy
+		capital = qirq_yer
+
+		timed_modifier = {
+			modifier = "br_levy_size_modifier"
+			start_date = 1333.1.1
+			date = 1375.1.1
+			size = 2
+		}
+
+	}
+	
+	RH1 = { #Tula Principality
+		our_cores_conquered_by_others = {
+			tula_russia bogoroditsk arkhangelskoye kurkino donkov yelets talitsa_yelets gogol
+			ust_livny
+		}
+		
+		starting_technology_level = 3
+		country_rank = rank_county
+		
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = random
+		}
+		
+		liturgical_language = church_slavonic_language
+		
+		tolerated_cultures = {
+		}
+		
+		capital = tula_russia
+		include = "russian_principality_no_coast"
+		include = "expl_novgorod"
+	}
+	
+	RH2 = { #Principality of Kursk
+		our_cores_conquered_by_others = {
+			kursk fatezh kosozhichi olgov
+			manturovo_kursk troitskoye_na_shchigrakh
+			opalkova
+			belgorod rakitnoye muzhech sudzha oboyan
+		}
+		
+		starting_technology_level = 3
+		country_rank = rank_county
+		
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = random
+		}
+		
+		liturgical_language = church_slavonic_language
+		
+		tolerated_cultures = {
+		}
+		
+		capital = kursk
+		include = "russian_principality_no_coast"
+		include = "expl_novgorod"
+	}
+
+	RH3 = { #Donets
+		type = army
+		
+		our_cores_conquered_by_others = {
+			donets_kharkiv zmiiv chuhuiv
+			okhtyrka kotelva khotmyzh
+		}
+		
+		starting_technology_level = 3
+		country_rank = rank_county
+		
+		government = {
+			type = steppe_horde
+			heir_selection = tribal_oldest_male
+			ruler = random
+			reforms = {
+				cossacks_reform
+			}
+
+			privilege = {
+				cossack_identity
+				cossacks_land_rights
+				cossacks_sanctioned_atamans
+				cossacks_allowed_free_roaming
+				cossacks_government_positions
+				cossacks_military_service
+				cossacks_protected_faith
+				cossacks_respected_traditions
+				cossacks_rada_autonomy
+				cossacks_register
+			}
+
+			centralization_vs_decentralization = 80
+			spiritualist_vs_humanist = -80
+			serfdom_vs_free_subjects = 80
+			offensive_vs_defensive = -100
+			land_vs_naval = -100
+			individualism_vs_communalism = 80
+			outward_vs_inward = 80
+			
+			laws = {
+				marriage_law = monogamous_marriage
+				heir_religion_law = heir_same_religion
+			}
+		}
+		#timed_modifier = {
+		#	modifier = "br_levy_size_modifier"
+		#	start_date = 1333.1.1
+		#	date = 1338.1.1
+		#	size = 2
+		#}
+		
+		liturgical_language = church_slavonic_language
+		
+		tolerated_cultures = {
+		}
+		
+		capital = donets_kharkiv
+		include = "expl_eastern_europe"
+		include = "eurasian_horde"
+	}
+
+	G0L = { # SIBIR Khanate
+		our_cores_conquered_by_others = {
+			qashliq siberia_abalak turtas yukonda
+			tara znamenskoye ust_ishim omsk kamyshnoye cherlak tyukalinsk kolosovka
+			chimgi_tura tugulym yalutorovsk shadrinsk tsaryovo_gorodishche
+			tobolsk vagay tavdinsky_sloboda yurginskoye vikulovo
+			surgut bolshoy_balyk irtysh megion bolshoy_yugan upper_ob
+
+			gorkovskoye okoneshnikovo
+			chastoozerye polovinnoye armizonskoye berdyuzhye korkina_sloboda
+			shish muromtsevo sartlan kargat kainsky_pas kyshtovka
+			tomsk melnikovo molchanovo kargasok vasyugan kolpashevo
+		}
+
+		starting_technology_level = 3
+		include = "expl_mongols"
+		include = "eurasian_horde"
+
+		government = {
+			ruler = random
+
+			reforms = {
+				legacy_of_genghis
+			}
+			privilege = {
+				tribal_autonomy
+				tribes_land_rights
+				tribes_pasture_access
+				tribes_tribal_registry
+				tribes_protected_faith
+				tribes_in_administration
+				tribes_respect_tribal_traditions
+			}
+
+		}
+		country_rank = rank_duchy
+		capital = chimgi_tura
+		court_language = kipchak_language
+	}
+	
+	ICO = {
+		our_cores_conquered_by_others = {
+			konya hatunsaray karapinar ladik larende pirloganda
+			obruk altinekin cumra
+		}
+
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			
+			ruler_term = { character = br_ere_rdm_character_62 start_date = 1297.11.1 }
+			ruler = br_ere_rdm_character_62
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			greek_culture
+		}
+		tolerated_cultures = {
+			cappadocian_greek_culture
+			armenian_culture
+		}
+
+		liturgical_language = koine_dialect
+		capital = konya
+	}
+	
+	AON = {
+		our_cores_conquered_by_others = {
+			beypazari kizilca
+			ankara cubuk haymana kalecik polatli karakecili
+			cankiri bayat cerkes kursunlu tosya sabanozu
+			kibrus mihaliccik sivrihisar bozan kaymaz
+			bolu gerede mengen
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			
+			ruler_term = { character = br_ere_rdm_character_97 start_date = 1335.1.1 }
+			ruler = br_ere_rdm_character_97
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			greek_culture
+		}
+		tolerated_cultures = {
+			cappadocian_greek_culture
+			armenian_culture
+		}
+
+		liturgical_language = koine_dialect
+		capital = ankara
+	}
+	
+	PAF = {
+		our_cores_conquered_by_others = {
+			amasra
+			bartin
+			kastamonu arac devrekani inebolu kure_i_mamure taskopru
+			safranbolu ulus yenicepazari
+			cerkes
+			mengen gerede
+			iskilip gumus
+			cankiri bayat kursunlu tosya sabanozu
+			boyabat sinop
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_69
+			ruler_term = { character = br_ere_rdm_character_69 start_date = 1335.1.1 }
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			greek_culture
+		}
+		tolerated_cultures = {
+			armenian_culture
+		}
+		
+		liturgical_language = koine_dialect
+		capital = amasra
+	}
+	
+	K1B = {
+		our_cores_conquered_by_others = {
+			marmaris
+			antalya elmali karahisar_i_teke kas istanoz
+			manavgat finike
+			rodos kos
+			alaiye selinti
+			megri yuksekkum bodrum gokabat
+			karpathos
+			#golhisar tavas mugla milas cine
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_naval_theme_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = random
+		}
+		currency_data = {
+			gold = 1250
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			anatolian_greek_culture
+		}
+		tolerated_cultures = {
+			armenian_culture
+		}
+		
+		liturgical_language = koine_dialect
+		capital = antalya
+	}
+
+	S1Y = {
+		our_cores_conquered_by_others = {
+			kavala drama serres
+			xanthia
+			komotini
+			smolyan ustra
+			dospat bansko krupnik melnik nevrokop
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_pronoia_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_12
+			ruler_term = { character = br_ere_rdm_character_12 start_date = 1329.9.25 } 
+		}
+		
+		country_rank = rank_county
+		accepted_cultures = {
+			aromanian
+		}
+		tolerated_cultures = {
+			bulgarian
+		}
+		
+		liturgical_language = koine_dialect
+		capital = serres
+	}
+
+	B0R = {
+		our_cores_conquered_by_others = {
+			grevena siatista kastoria servia ostrovo
+			florina
+			giannitsa veria edessa 
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_pronoia_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_100
+			ruler_term = { character = br_ere_rdm_character_100 start_date = 1329.9.25 } 
+		}
+		
+		country_rank = rank_county
+		accepted_cultures = {
+			aromanian
+		}
+		tolerated_cultures = {
+			arvanite
+		}
+		
+		liturgical_language = koine_dialect
+		capital = ostrovo
+	}
+
+	A1G = {
+		our_cores_conquered_by_others = {
+			canakkale
+			thasos sporades lemnos imbros molyvos mitilene
+			lapseki bayramic ayvacik
+			chios cesme
+			samos ikaria foca
+			lemnos
+			andros mykonos amorgos
+			negroponte kleisoura karystos kymi oreos eretreia
+			naxos kythnos milos
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_naval_theme_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = br_ere_rdm_character_00
+			ruler_term = { character = br_ere_rdm_character_00 start_date = 1333.1.1 }
+		}
+		
+		country_rank = rank_county
+		accepted_cultures = {
+			varangian
+		}
+		tolerated_cultures = {
+			latinoi
+		}
+		
+		liturgical_language = koine_dialect
+		capital = canakkale
+	}
+
+	AN1 = {
+		our_cores_conquered_by_others = {
+			comana_cil
+			elbistan goksun afsin
+			hargan
+			enguzud kapan ulnia
+			darende gurun
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_26
+			ruler_term = { character = br_ere_rdm_character_26 start_date = 1297.11.1 }
+		}
+		
+		country_rank = rank_county
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+		
+		liturgical_language = koine_dialect
+		capital = afsin
+	}
+	
+	AN2 = {
+		our_cores_conquered_by_others = {
+			sivas dasmenda deliktash hafik sarkisla divrigi
+			zara
+			ilic egin 
+			darende gurun
+			gemerek
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_66
+			ruler_term = { character = br_ere_rdm_character_66 start_date = 1335.1.1 }
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+
+		liturgical_language = koine_dialect
+		capital = sivas
+	}
+	
+	AN3 = {
+		our_cores_conquered_by_others = {
+			sebinkarahisar
+			mesudiye koyulhisar
+			siran
+			tokat niksar
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_75
+			ruler_term = { character = br_ere_rdm_character_75 start_date = 1335.1.1 }
+		}
+		
+		country_rank = rank_county
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+
+		liturgical_language = koine_dialect
+		capital = sebinkarahisar
+	}
+	
+	AN4 = {
+		our_cores_conquered_by_others = {
+			bozok candir dinek_keskin sorgun baliseyh
+			bogazliyan kirsehir hacibektas
+			huseyinabad sungurlu
+			corum
+		}
+
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_43
+			ruler_term = { character = br_ere_rdm_character_43 start_date = 1335.1.1 }
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+
+		liturgical_language = koine_dialect
+		capital = kirsehir
+	}
+	
+	AN5 = {
+		our_cores_conquered_by_others = {
+			silifke anamur mut ermenek
+			selinti
+		}
+
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_72
+			ruler_term = { character = br_ere_rdm_character_72 start_date = 1335.1.1 }
+		}
+		
+		country_rank = rank_county
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+
+		liturgical_language = koine_dialect
+		capital = silifke
+	}
+	
+	AN6 = {
+		our_cores_conquered_by_others = {
+			unye
+			bafra samsun terme akkus
+			ladik_pontus gadegara
+			gerze
+		}
+
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_14
+			ruler_term = { character = br_ere_rdm_character_14 start_date = 1332.1.1 }
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+
+		liturgical_language = koine_dialect
+		capital = samsun
+	}
+
+	AN7 = {
+		our_cores_conquered_by_others = {
+			aksaray kochisar sariyahsi eregli_kar
+			eskil
+			nevsehir
+			bekarlar bor_tur nigde
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_25
+			ruler_term = { character = br_ere_rdm_character_25 start_date = 1297.11.1 }
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+		
+		liturgical_language = koine_dialect
+		capital = aksaray
+	}
+
+	AN8 = {
+		our_cores_conquered_by_others = {
+			kayseri develi tomarza yahyali 
+			urgup 
+			gemerek
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_24
+			ruler_term = { character = br_ere_rdm_character_24 start_date = 1297.11.1 }
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+		dynasty = phokas_dynasty
+		liturgical_language = koine_dialect
+		capital = kayseri
+	}
+	
+	AN9 = {
+		our_cores_conquered_by_others = {
+			bolvadin ilgin aksehir
+			beysehir sarkikaraagac seydisehir yalvac
+			egirdir
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_pronoia_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_58
+			ruler_term = { character = br_ere_rdm_character_58 start_date = 1297.11.1 }
+		}
+		
+		country_rank = rank_county
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+		
+		liturgical_language = koine_dialect
+		capital = beysehir
+	}
+	
+	AN10 = {
+		our_cores_conquered_by_others = {
+			sulusaray tokat zile
+			niksar
+			amasya merzifon sonisa
+			akdagmadeni aydincik
+			corum
+		}
+
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_thema_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_32
+			ruler_term = { character = br_ere_rdm_character_32 start_date = 1299.11.1 }
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+
+		liturgical_language = koine_dialect
+		capital = amasya
+	}
+	
+	AN11 = {
+		our_cores_conquered_by_others = {
+			cankiri bayat kursunlu tosya sabanozu iskilip
+			gumus
+			cerkes
+		}
+
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_pronoia_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_98
+			ruler_term = { character = br_ere_rdm_character_98 start_date = 1299.11.1 }
+		}
+		
+		country_rank = rank_county
+		accepted_cultures = {
+			greek_culture
+			armenian_culture
+		}
+
+		liturgical_language = koine_dialect
+		capital = cankiri
+	}
+
+	AN12 = {
+		our_cores_conquered_by_others = {
+			insuyu kulu_turkey
+			turgut suluklu celtik
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_pronoia_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_20
+			ruler_term = { character = br_ere_rdm_character_20 start_date = 1299.11.1 }
+		}
+		
+		country_rank = rank_county
+		accepted_cultures = {
+			greek_culture
+		}
+		tolerated_cultures = {
+			armenian_culture
+		}
+
+		dynasty = argyros_dynasty
+		liturgical_language = koine_dialect
+		capital = celtik
+	}
+	
+	P2N = {
+		our_cores_conquered_by_others = {
+			boyabat sinop gerze
+			gadegara gumus
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "br_pronoia_template"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		government = {
+			ruler = br_ere_rdm_character_15
+			ruler_term = { character = br_ere_rdm_character_15 start_date = 1332.1.1 }
+		}
+		
+		country_rank = rank_county
+		accepted_cultures = {
+			greek_culture
+		}
+		tolerated_cultures = {
+			armenian_culture
+		}
+
+		liturgical_language = koine_dialect
+		capital = sinop
+	}
+	
+
+  #Armenian Tags
+	DER = {
+		our_cores_conquered_by_others = {
+			bingol 
+			mus 
+			varto malazgirt hinis tutak
+			hizan bahcesaray bitlis kulp sason genc
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "eastern_european_monarchy"
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = random
+			
+			reforms = {
+				autocracy
+				local_army_organization
+			}
+
+			traditionalist_vs_innovative = -75
+			spiritualist_vs_humanist = -75
+			aristocracy_vs_plutocracy = -75
+			belligerent_vs_conciliatory = 75
+			offensive_vs_defensive = 100
+			land_vs_naval = -100
+			individualism_vs_communalism = 50
+			outward_vs_inward = 75
+			
+			privilege = {
+				br_arm_nakharars
+				br_arm_highland_villages
+				#Nobles
+				noble_serfdom_rights
+				feudal_mercenary_contracts
+				primacy_of_nobility
+				#clergy
+				embellish_great_works_of_faith
+				clergy_powerful_dioceses
+				clergy_strengthen_faith
+				#burghers
+				land_of_commerce
+				#peasants
+				peasants_allowed_weapons_privilege
+				peasants_yeomanry
+
+				tribes_allow_gatherings
+				tribes_pasture_access
+				tribes_tribal_levies
+				tribes_protected_faith
+				jaysh_armies
+			}
+		}
+		
+		country_rank = rank_duchy
+		tolerated_cultures = {
+		}
+		
+		capital = mus
+	}
+	
+	KOG = {
+		our_cores_conquered_by_others = {
+			bayburt erzincan kelkit kemah
+			erzurum tercan
+			sebinkarahisar siran ilic
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "eastern_european_monarchy"
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = random
+			
+			reforms = {
+				autocracy
+				local_army_organization
+			}
+
+			traditionalist_vs_innovative = -75
+			spiritualist_vs_humanist = -75
+			aristocracy_vs_plutocracy = -75
+			belligerent_vs_conciliatory = 75
+			offensive_vs_defensive = 100
+			land_vs_naval = -100
+			individualism_vs_communalism = 50
+			outward_vs_inward = 75
+			
+			privilege = {
+				br_arm_nakharars
+				br_arm_highland_villages
+				#Nobles
+				noble_serfdom_rights
+				feudal_mercenary_contracts
+				primacy_of_nobility
+				#clergy
+				embellish_great_works_of_faith
+				clergy_powerful_dioceses
+				clergy_strengthen_faith
+				#burghers
+				land_of_commerce
+				#peasants
+				peasants_allowed_weapons_privilege
+				peasants_yeomanry
+
+				tribes_allow_gatherings
+				tribes_pasture_access
+				tribes_tribal_levies
+				tribes_protected_faith
+				jaysh_armies
+			}
+		}
+		
+		country_rank = rank_duchy
+		tolerated_cultures = {
+		}
+		
+		capital = erzurum
+	}
+	
+	MES = {
+		our_cores_conquered_by_others = {
+			arapgir arguvan
+			malatya
+			genc
+			harput adakli keban palu
+			cemisgezek kuzucan pertek
+			divrigi egin
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "eastern_european_monarchy"
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = random
+			
+			reforms = {
+				autocracy
+				local_army_organization
+			}
+
+			traditionalist_vs_innovative = -75
+			spiritualist_vs_humanist = -75
+			aristocracy_vs_plutocracy = -75
+			belligerent_vs_conciliatory = 75
+			offensive_vs_defensive = 100
+			land_vs_naval = -100
+			individualism_vs_communalism = 50
+			outward_vs_inward = 75
+			
+			privilege = {
+				br_arm_nakharars
+				br_arm_highland_villages
+				#Nobles
+				noble_serfdom_rights
+				feudal_mercenary_contracts
+				primacy_of_nobility
+				#clergy
+				embellish_great_works_of_faith
+				clergy_powerful_dioceses
+				clergy_strengthen_faith
+				#burghers
+				land_of_commerce
+				#peasants
+				peasants_allowed_weapons_privilege
+				peasants_yeomanry
+
+				tribes_allow_gatherings
+				tribes_pasture_access
+				tribes_tribal_levies
+				tribes_protected_faith
+				jaysh_armies
+			}
+		}
+		
+		country_rank = rank_duchy
+		tolerated_cultures = {
+		}
+		
+		capital = malatya
+	}
+	
+	VAN = {
+		our_cores_conquered_by_others = {
+			van catak hosap tatvan ahlat bargiri ercis
+			mus hizan bahcesaray bitlis
+		}
+		
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "eastern_european_monarchy"
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = random
+			
+			reforms = {
+				autocracy
+				local_army_organization
+			}
+
+			traditionalist_vs_innovative = -75
+			spiritualist_vs_humanist = -75
+			aristocracy_vs_plutocracy = -75
+			belligerent_vs_conciliatory = 75
+			offensive_vs_defensive = 100
+			land_vs_naval = -100
+			individualism_vs_communalism = 50
+			outward_vs_inward = 75
+			
+			privilege = {
+				#Nobles
+				noble_patronage_of_the_arts
+				noble_serfdom_rights
+				feudal_mercenary_contracts
+				primacy_of_nobility
+				#clergy
+				embellish_great_works_of_faith
+				clergy_powerful_dioceses
+				clergy_strengthen_faith
+				#burghers
+				land_of_commerce
+				#peasants
+				peasants_allowed_weapons_privilege
+				peasants_yeomanry
+
+				tribes_allow_gatherings
+				tribes_pasture_access
+				tribes_tribal_levies
+				tribes_protected_faith
+				jaysh_armies
+			}
+		}
+		
+		country_rank = rank_duchy
+		tolerated_cultures = {
+		}
+		
+		capital = van
+	}
+	
+	GAN = {
+		our_cores_conquered_by_others = {
+			ganja gardman shamkir barda
+			shaki aresh vartashen
+		}
+		starting_technology_level = 3
+		include = "expl_eastern_europe"
+		include = "eastern_european_monarchy"
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = random
+			
+			reforms = {
+				autocracy
+				local_army_organization
+			}
+
+			traditionalist_vs_innovative = -75
+			spiritualist_vs_humanist = -75
+			aristocracy_vs_plutocracy = -75
+			belligerent_vs_conciliatory = 75
+			offensive_vs_defensive = 100
+			land_vs_naval = -100
+			individualism_vs_communalism = 50
+			outward_vs_inward = 75
+			
+			privilege = {
+				#Nobles
+				noble_patronage_of_the_arts
+				noble_serfdom_rights
+				feudal_mercenary_contracts
+				primacy_of_nobility
+				auxilium_et_consilium
+				#clergy
+				embellish_great_works_of_faith
+				clergy_powerful_dioceses
+				clergy_strengthen_faith
+				religious_diplomats
+				#burghers
+				land_of_commerce
+				#peasants
+				peasants_allowed_weapons_privilege
+				peasants_yeomanry
+
+				tribes_allow_gatherings
+				tribes_pasture_access
+				tribes_tribal_levies
+				tribes_protected_faith
+				jaysh_armies
+			}
+		}
+		
+		country_rank = rank_duchy
+		accepted_cultures = {
+			georgian_culture
+		}
+		tolerated_cultures = {
+		}
+		
+		capital = ganja
+	}
+	
+  #Africa
+	
+  #India
+	INK = { 
+		our_cores_conquered_by_others = {
+			goa madgaon
+		}
+		
+		include = "expl_india_hindu"
+		include = "expl_eastern_europe"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "br_pronoia_template"
+		country_rank = rank_kingdom
+		government = {
+			ruler = random
+
+			reforms = {
+				trade_office_network
+			}
+			
+			privilege = {
+				#burghers
+				land_of_commerce
+				sponsor_maritime_contracts
+				shipwright_contracts
+			}
+
+		}
+		
+		capital = goa
+	}
+
+	RIC = {
+		type = building
+		starting_technology_level = 3
+		
+		capital = goa
+
+		include = "expl_eastern_europe"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "expl_horn_of_africa_ethiopia"
+		government = {
+			type = republic
+			heir_selection = bank_selection
+			ruler = random
+
+			laws = {
+				republican_foundation_law = meritocratic_rule_policy
+				heir_religion_law = heir_same_religion
+				marriage_law = monogamous_marriage
+				censorship = limited_censorship
+				education_masses_law = apprenticeships_education
+				administrative_system = local_courts_administration
+				cultural_traditions_law = maritime_society
+				legal_code_law = court_of_appeals
+				maritime_law = protect_trade_routes
+				piracy_law = anti_piracy_policy
+				distribution_of_power_law = dop_favor_the_burghers
+			}
+			reforms = {
+				br_special_merchant_republic
+				trade_office_network
+			}
+			
+			privilege = {
+				#burghers
+				land_of_commerce
+				sponsor_maritime_contracts
+				shipwright_contracts
+				market_fairs
+				br_special_trade_companies
+			}
+
+			centralization_vs_decentralization = 25
+			aristocracy_vs_plutocracy = 75
+			serfdom_vs_free_subjects = 45
+			traditionalist_vs_innovative = 50
+			spiritualist_vs_humanist = 80
+			mercantilism_vs_free_trade = 75
+			offensive_vs_defensive = 40
+			land_vs_naval = 100
+			quality_vs_quantity = -50
+			belligerent_vs_conciliatory = 75
+			capital_economy_vs_traditional_economy = -85
+			individualism_vs_communalism = -75
+			outward_vs_inward = -75
+		}
+		country_rank = rank_duchy
+		currency_data = {
+			gold = 5000
+			stability = 100
+			government_power = 100
+		}
+	}
+
+	S0K = {
+		our_cores_conquered_by_others = {
+			hadibu qulensya
+		}
+		starting_technology_level = 3
+		
+		capital = qulensya
+
+		include = "expl_eastern_europe"
+		include = "expl_mediterranean"
+		include = "expl_silk_road_west"
+		include = "expl_silk_road_center"
+		include = "expl_silk_road_east"
+		include = "expl_indian_trade_route"
+		include = "expl_horn_of_africa_ethiopia"
+		include = "br_pronoia_template"
+		government = {
+			ruler = random
+
+			reforms = {
+				merchant_republic
+				trade_office_network
+			}
+			
+			privilege = {
+				#burghers
+				land_of_commerce
+				sponsor_maritime_contracts
+				shipwright_contracts
+			}
+
+		}
+		country_rank = rank_county
+	}
+
+	
+  #Middle East
+	AIA = { #Abbasids 
+		our_cores_conquered_by_others = {
+			baghdad
+			#Should be at least all of Iraq
+			rahba anah abu_kemal haditha
+			al_anbar hit ayn_tamr karbala
+			kufa al_udayb qadisiyyah
+			dayr_aqul badra ilam
+			wasit abdanan al_tib arkvaz bakusaya dehloran meymeh
+			basra abadan abdas al_madar al_qatr zuwayr
+			an_nil nasiriyah numaniyyah rusafa
+			khalafabad machul quban
+			ahvaz dowraq hamidiyeh hoveyzeh mosharahat muhammerah
+			kazimah
+			hillah samawa suq_al_shuyukh
+			balad_ruz baqubah khalis khanaqin mandali
+			samarra ar_rabb tikrit ukbara
+			al_sinn
+			eyvan
+		}
+		
+		starting_technology_level = 3
+		include = "expl_middle_east"
+		include = "muslim_monarchy"
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+
+
+			centralization_vs_decentralization = -75
+			aristocracy_vs_plutocracy = -10
+			serfdom_vs_free_subjects = 25
+			traditionalist_vs_innovative = 25
+			spiritualist_vs_humanist = 25
+			mercantilism_vs_free_trade = 25
+			offensive_vs_defensive = 75
+			land_vs_naval = -75
+			quality_vs_quantity = 10
+			belligerent_vs_conciliatory = 75
+			capital_economy_vs_traditional_economy = 10
+			individualism_vs_communalism = 25
+			outward_vs_inward = -60
+			mysticism_vs_jurisprudence = 50
+			
+			privilege = {
+				#Nobles
+				elaborate_court_ceremonies
+				ghazi_privilege
+				auxilium_et_consilium
+				#joint_assembly_decrees
+
+				#Clergy
+				clergy_literacy_rights
+				clergy_enforced_unity
+				embellish_great_works_of_faith
+				clergy_land_rights
+
+				#Peasants
+				peasants_allowed_weapons_privilege
+				
+				#Burghers
+				formal_guilds
+				building_rights
+				market_fairs
+				land_of_commerce
+				
+				#Dhimmi
+				dhimmi_land_rights
+				dhimmi_administrative_posts
+				dhimmi_abrahamic_communities
+				dhimmi_pact_of_umar
+				dhimmi_military_service
+				dhimmi_traditions
+				dharmic_dhimmi_communities
+				urban_development_grants
+
+			}
+			
+			laws = {
+				royal_court_customs_law = harem_policy
+			}
+		}
+		
+		capital = baghdad
+		country_rank = rank_kingdom	#Caliphate 
+		dynasty = abbasid_dynasty
+		tolerated_cultures = {
+			levantine_culture
+		}
+		currency_data = {
+			gold = 350
+			prestige = 100
+			stability = 100
+			government_power = 100
+		}
+		religious_school = hanafi_school
+		
+	}
+
+	A0A = { #Samarra 
+		our_cores_conquered_by_others = {
+			samarra ar_rabb tikrit ukbara
+			balad_ruz baqubah khalis khanaqin mandali
+			eyvan
+			altun_kupri chamchamal daquq kirkuk tuz_khurma
+			akre
+			duhok balad
+		}
+		
+		starting_technology_level = 3
+		include = "expl_middle_east"
+		include = "turkish_beylik_no_coast_no_greek"
+		government = {
+			ruler = tur_ibrahim
+
+			privilege = {
+				#Nobles
+				elaborate_court_ceremonies
+				ghazi_privilege
+				auxilium_et_consilium
+
+				#Clergy
+				clergy_enforced_unity
+				embellish_great_works_of_faith
+
+				#Burghers
+				land_of_commerce
+				
+				#Dhimmi
+				dhimmi_land_rights
+				dhimmi_abrahamic_communities
+				dhimmi_pact_of_umar
+				dhimmi_traditions
+				dharmic_dhimmi_communities
+				urban_development_grants
+
+				#Tribes
+				tribes_tribal_levies
+				tribes_land_rights
+				tribes_pasture_access
+				tribes_tribal_registry
+				tribes_protected_faith
+				tribes_in_administration
+
+			}
+			
+			laws = {
+				royal_court_customs_law = harem_policy
+			}
+		}
+		
+		capital = samarra
+		country_rank = rank_duchy
+		court_language = persian_language
+		tolerated_cultures = {
+			turkoman_culture
+			iraqi_culture
+		}
+		currency_data = {
+			gold = 2250
+			prestige = 75
+			stability = 100
+			government_power = 100
+		}
+		timed_modifier = {
+			modifier = "br_levy_size_modifier"
+			start_date = 1333.1.1
+			date = 1420.1.1
+			size = 2
+		}
+		religious_school = maturidi_school #Widespread among the Turks together with Hanafi
+		
+	}
+	
+	A2A = { #Mosul 
+		our_cores_conquered_by_others = {
+			mosul qayyarah tal_afar al_sinn
+		}
+		
+		starting_technology_level = 3
+		include = "expl_middle_east"
+		include = "turkish_beylik_no_coast_no_greek"
+		government = {
+			ruler = tur_serefullah
+
+			privilege = {
+				#Nobles
+				elaborate_court_ceremonies
+				ghazi_privilege
+				auxilium_et_consilium
+
+				#Clergy
+				clergy_enforced_unity
+				embellish_great_works_of_faith
+
+				#Burghers
+				land_of_commerce
+				
+				#Dhimmi
+				dhimmi_land_rights
+				dhimmi_abrahamic_communities
+				dhimmi_pact_of_umar
+				dhimmi_traditions
+				dharmic_dhimmi_communities
+				urban_development_grants
+
+				#Tribes
+				tribes_tribal_levies
+				tribes_land_rights
+				tribes_pasture_access
+				tribes_tribal_registry
+				tribes_protected_faith
+				tribes_in_administration
+
+			}
+			
+			laws = {
+				royal_court_customs_law = harem_policy
+			}
+		}
+		
+		capital = mosul
+		country_rank = rank_duchy
+		court_language = persian_language
+		tolerated_cultures = {
+			turkoman_culture
+			iraqi_culture
+		}
+		currency_data = {
+			gold = 2250
+			prestige = 75
+			stability = 100
+			government_power = 100
+		}
+		timed_modifier = {
+			modifier = "br_levy_size_modifier"
+			start_date = 1333.1.1
+			date = 1420.1.1
+			size = 2
+		}
+		religious_school = maturidi_school #Widespread among the Turks together with Hanafi
+		
+	}
+
+	SY2 = {
+		our_cores_conquered_by_others = {
+			beirut baalbek deir_qamar sidon tripoli_syria
+			damascus artah baniyas hama homs idlib jableh kafartab latakia masyaf nabek qusayr tartus
+			burraq jayrud qutayfah
+			bosra dara nawa salkhad suwayda irbid
+		}
+		
+		include = "expl_muslim_mediterranean"
+		include = "expl_horn_of_africa"
+		include = "muslim_monarchy"
+		country_rank = rank_duchy
+		government = {
+			type = monarchy
+			heir_selection = cognatic_primogeniture
+			ruler = random
+
+			reforms = {
+				autocracy
+			}
+
+			privilege = {
+				#Nobles
+				elaborate_court_ceremonies
+				banal_lordship
+				#joint_assembly_decrees
+				ghazi_privilege
+				noble_sponsored_navy
+				auxilium_et_consilium
+
+				#Ulama
+				#waqf_payments
+				embellish_great_works_of_faith
+				freedom_of_interpretation
+				
+				#Burghers
+				trade_monopolies
+				formal_guilds
+				shipwright_contracts
+				land_of_commerce
+				allow_trade_center_sponsorship
+				urban_development_grants
+				commercial_advisory_council
+				burghers_protected_faith
+
+				#peasants
+				peasants_allowed_weapons_privilege
+				
+				#Dhimmi #BR ADDED
+				dhimmi_land_rights
+				dhimmi_pact_of_umar
+				dhimmi_traditions
+				dharmic_dhimmi_communities
+				dhimmi_legal_autonomy
+				dhimmi_promote_dhimmi_hierarchy
+				dhimmi_mazalim_court
+				dhimmi_in_administration
+
+				#Tribes
+				tribes_tribal_levies
+				tribes_allow_gatherings
+				tribes_land_rights
+				tribes_pasture_access
+				tribes_tribal_registry
+				tribes_protected_faith
+				tribes_in_administration
+			}
+			
+			spiritualist_vs_humanist = 50
+			belligerent_vs_conciliatory = -50
+			quality_vs_quantity = 25
+			land_vs_naval = -50
+			
+		}
+		religious_school = ismaili_school
+		government = { mysticism_vs_jurisprudence = 25 }
+		capital = damascus
+	}
+
+}
+}
+

@@ -1,0 +1,680 @@
+﻿namespace = br_country_startup
+
+br_country_startup.1 = { #naval units added
+	type = country_event
+	title = br_country_startup.1.title
+	desc = br_country_startup.1.desc
+	outcome = neutral
+
+	#orphan = yes
+
+	trigger = {
+		tag = FEO
+	}
+
+	fire_only_once = yes
+
+	immediate = {
+		c:GEN = {
+			capital = {
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+			}
+		}
+		c:VEN = {
+			capital = {
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+			}
+		}
+		c:KNI = {
+			capital = {
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit = unit_type:n_barque
+				create_sub_unit_of_category = sub_unit_category:navy_transport
+				create_sub_unit_of_category = sub_unit_category:navy_transport
+				create_sub_unit_of_category = sub_unit_category:army_heavy_infantry
+				create_sub_unit_of_category = sub_unit_category:army_heavy_infantry
+				create_sub_unit_of_category = sub_unit_category:army_heavy_infantry
+				create_sub_unit_of_category = sub_unit_category:army_heavy_infantry
+			}
+		}
+		c:MAM = {
+			location:suez = {
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+				create_sub_unit_of_category = sub_unit_category:navy_light_ship
+			}
+		}
+
+	}
+
+	option = {
+		name = br_country_startup.1.a
+		historical_option = yes
+	}
+}
+
+br_country_startup.2 = { #units added
+	type = country_event
+	title = br_country_startup.2.title
+	desc = br_country_startup.2.desc
+	outcome = neutral
+
+	#orphan = yes
+
+	trigger = {
+		tag = BFR
+	}
+
+	fire_only_once = yes
+
+	immediate = {
+		c:BUL = {
+			capital = {
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+			}
+		}
+		c:HUN = {
+			capital = {
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+			}
+		}
+		c:ARA = {
+			capital = {
+				create_sub_unit = unit_type:a_crusader_knights
+				create_sub_unit = unit_type:a_crusader_knights
+				create_sub_unit = unit_type:a_crusader_knights
+				create_sub_unit_of_category = sub_unit_category:army_auxiliary
+			}
+		}
+		c:CAS = {
+			capital = {
+				create_sub_unit = unit_type:a_crusader_knights
+				create_sub_unit = unit_type:a_crusader_knights
+				create_sub_unit = unit_type:a_crusader_knights
+			}
+		}
+		c:OHS = {
+			capital = {
+				create_sub_unit = unit_type:a_crusader_knights
+				create_sub_unit = unit_type:a_crusader_knights
+				create_sub_unit = unit_type:a_crusader_knights
+			}
+		}
+		c:GEO = {
+			capital = {
+				create_sub_unit_of_category = sub_unit_category:army_heavy_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_light_cavalry
+				create_sub_unit = unit_type:br_unit_trebuchet
+				create_sub_unit = unit_type:br_unit_trebuchet
+				create_sub_unit_of_category = sub_unit_category:army_auxiliary
+			}
+		}
+		c:FRA = {
+			capital = {
+				create_sub_unit_of_category = sub_unit_category:army_heavy_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_heavy_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_heavy_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_heavy_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_heavy_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_heavy_cavalry
+				create_sub_unit_of_category = sub_unit_category:army_heavy_cavalry
+			}
+		}
+		c:BYZ = {
+			capital = {
+				create_sub_unit = unit_type:a_varangians
+				create_sub_unit = unit_type:a_varangians
+				create_sub_unit = unit_type:a_varangians
+				create_sub_unit = unit_type:a_varangians
+				create_sub_unit = unit_type:a_byzantine_cataphracts
+				create_sub_unit = unit_type:a_byzantine_cataphracts
+				create_sub_unit = unit_type:a_byzantine_cataphracts
+				create_sub_unit = unit_type:a_byzantine_cataphracts
+				create_sub_unit = unit_type:a_byzantine_cataphracts
+				create_sub_unit = unit_type:a_byzantine_cataphracts
+				#create_sub_unit = unit_type:a_supply_carts
+				#create_sub_unit = unit_type:a_supply_carts
+			}
+		}
+
+	}
+
+	option = {
+		name = br_country_startup.2.a
+
+		historical_option = yes
+
+	}
+}
+
+br_country_startup.3 = { #cbs added
+	type = country_event
+	title = br_country_startup.2.title
+	desc = br_country_startup.2.desc
+	outcome = neutral
+
+	#orphan = yes
+
+	trigger = {
+		tag = OHS
+	}
+
+	fire_only_once = yes
+
+	immediate = {
+		c:CAS = {
+			every_owned_location = {
+				every_pop = {
+					limit = {
+						culture = culture:mozarabic
+					}
+					change_pop_culture = culture:castilian
+				}
+			}
+		}
+		c:CAS = {
+			every_owned_location = {
+				every_pop = {
+					limit = {
+						culture = culture:mozarabic
+					}
+					change_pop_culture = culture:castilian
+				}
+			}
+		}
+		c:BUL = {
+			add_casus_belli = {
+				target = c:BYZ
+				type = casus_belli:cb_border_war
+			}
+		}
+		c:DUL = {
+			add_casus_belli = {
+				target = c:OHS
+				type = casus_belli:cb_border_war
+			}
+		}
+		c:TUR = {
+			add_casus_belli = {
+				target = c:GRM
+				type = casus_belli:cb_border_war
+			}
+		}
+		c:BYZ = {
+			add_casus_belli = {
+				target = c:TUR
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:KRD
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:AYD
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:SRU
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:MEN
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:SER
+				type = casus_belli:cb_border_war
+			}
+		}
+		c:TRE = {
+			add_casus_belli = {
+				target = c:HCI
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:TDJ
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:BFR
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:KBD
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:SME
+				type = casus_belli:cb_border_war
+			}
+		}
+		c:CND = {
+			add_casus_belli = {
+				target = c:BFR
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:KBD
+				type = casus_belli:cb_border_war
+			}
+		}
+	}
+
+	option = {
+		name = br_country_startup.2.a
+
+		historical_option = yes
+
+	}
+}
+
+br_country_startup.4 = {
+	type = country_event
+	title = br_country_startup.4.title
+	desc = br_country_startup.4.desc
+	outcome = neutral
+	fire_only_once = yes
+	image = "gfx/interface/illustrations/government/throne_rooms/throne_room_byzantium.dds"
+	#orphan = yes
+	trigger = {
+		tag = SAR
+	}
+	
+	illustration_tags = {
+		10 = regular
+		10 = interior
+	}
+
+	immediate = {
+		if = {
+			limit = { country_exists = c:GEN }
+			c:GEN = { save_scope_as = catholic_country }
+		}
+		if = {
+			limit = { country_exists = c:S4C }
+			c:S4C = { save_scope_as = sunni_country }
+		}
+		if = {
+			limit = { country_exists = c:SAR }
+			c:SAR = { save_scope_as = orthodox_country }
+		}
+		
+	}
+
+	option = { #Become subject of Genoa in exchange for return of your land
+		#historical_option = yes
+		name = br_country_startup.4.a
+		#province:cagliari_province = {	change_province_owner = c:SAR	}
+		#province:gallura_province = {	change_province_owner = c:SAR	}
+		#province:logudoro_province = {	change_province_owner = c:SAR	}
+		scope:orthodox_country = {
+			make_subject_of = {
+				target = c:GEN
+				type = subject_type:tributary
+			}
+		}
+		location:alghero = {
+			change_location_owner = c:SAR	
+		}
+		location:thiesi = {
+			change_location_owner = c:SAR	
+		}
+		location:castelsardo = {
+			change_location_owner = c:SAR	
+		}
+		location:ozieri = {
+			change_location_owner = c:SAR	
+		}
+		location:tortoli = {
+			change_location_owner = c:SAR	
+		}
+		location:orosei = {
+			change_location_owner = c:SAR	
+		}
+		location:terranova_pausania = {
+			change_location_owner = c:SAR	
+		}
+		location:posada = {
+			change_location_owner = c:SAR	
+		}
+		location:tempiopausania = {
+			change_location_owner = c:SAR	
+		}
+		location:sassari = {
+			change_location_owner = c:SAR	
+		}
+		add_truce_with = { target = scope:catholic_country }
+			
+		add_casus_belli = {
+			target = c:S4C
+			type = casus_belli:cb_border_war
+		}
+
+		ai_chance = {
+			factor = 5
+		}
+
+	}
+	option = {
+		name = br_country_startup.4.b
+
+		#todo
+		#drop_antagonism_bomb = {
+		#	target = capital
+		#	modifier = antagonism_embraced_antagonism
+		#	value = 5
+		#}
+		c:SAR = {
+			add_casus_belli = {
+				target = c:GEN
+				type = casus_belli:cb_border_war
+			}
+			add_casus_belli = {
+				target = c:S4C
+				type = casus_belli:cb_border_war
+			}
+		}
+
+		ai_chance = {
+			factor = 10
+		}
+
+	}
+	option = {
+		name = br_country_startup.4.c
+
+		scope:orthodox_country = {
+			make_subject_of = {
+				target = c:TUN
+				type = subject_type:tributary
+			}
+		}
+		location:tratalias = {
+			change_location_owner = c:SAR	
+		}
+		location:villa_di_chiesa = {
+			change_location_owner = c:SAR	
+		}
+		location:cagliari = {
+			change_location_owner = c:SAR	
+		}
+		location:muravera = {
+			change_location_owner = c:SAR	
+		}
+		add_truce_with = { target = scope:sunni_country }
+
+		add_casus_belli = {
+			target = c:GEN
+			type = casus_belli:cb_border_war
+		}
+
+		ai_chance = {
+			factor = 2
+		}
+	}
+
+}
+
+br_country_startup.5 = {
+	type = country_event
+	title = br_country_startup.5.title
+	desc = br_country_startup.5.desc
+	outcome = neutral
+	fire_only_once = yes
+	image = "gfx/interface/illustrations/government/throne_rooms/throne_room_syrian.dds"
+	#orphan = yes
+	trigger = {
+		tag = S1C
+	}
+	
+	illustration_tags = {
+		10 = regular
+		10 = interior
+	}
+
+	immediate = {
+		research_advance = advance_type:slave_raid_advance
+		research_advance = advance_type:privateers
+		if = {
+			limit = { country_exists = c:S1C }
+			c:S1C = { save_scope_as = orthodox_country }
+		}
+		
+	}
+
+	option = { #Become subject of BYZ in exchange for protection
+		#historical_option = yes
+		name = br_country_startup.5.a
+		scope:orthodox_country = {
+			make_subject_of = {
+				target = c:BYZ
+				type = subject_type:tributary
+			}
+			add_casus_belli = {
+				target = c:S4C
+				type = casus_belli:cb_border_war
+			}
+		}
+	}
+	option = {
+		name = br_country_startup.5.b
+
+		c:S1C = {
+			add_casus_belli = {
+				target = c:S4C
+				type = casus_belli:cb_border_war
+			}
+		}
+
+	}
+
+}
+
+br_country_startup.6 = {
+	type = country_event
+	title = br_country_startup.6.title
+	desc = br_country_startup.6.desc
+	outcome = neutral
+	fire_only_once = yes
+	image = "gfx/interface/illustrations/government/throne_rooms/throne_room_syrian.dds"
+	#orphan = yes
+	trigger = {
+		tag = B0L
+	}
+	
+	illustration_tags = {
+		10 = regular
+		10 = interior
+	}
+
+	immediate = {
+		if = {
+			limit = { country_exists = c:B0L }
+			c:B0L = { save_scope_as = orthodox_country }
+		}
+		
+	}
+
+	option = {
+		historical_option = yes
+		name = br_country_startup.6.a
+	}
+	#option = {
+	#	name = br_country_startup.6.b
+	#
+	#}
+
+}
+
+br_country_startup.7 = { #culture changes
+	type = country_event
+	title = br_country_startup.2.title
+	desc = br_country_startup.2.desc
+	outcome = neutral
+
+	#orphan = yes
+
+	trigger = {
+		tag = CAS
+	}
+
+	fire_only_once = yes
+
+	immediate = {
+		
+	}
+
+	option = {
+		name = br_country_startup.2.a
+
+		historical_option = yes
+		hidden_effect = {
+			c:CAS = {
+				every_owned_location = {
+					every_pop = {
+						limit = {
+							culture = culture:mozarabic
+						}
+						change_pop_culture = culture:castilian
+					}
+				}
+			}
+			c:POR = {
+				every_owned_location = {
+					every_pop = {
+						limit = {
+							culture = culture:mozarabic
+						}
+						change_pop_culture = culture:portuguese
+					}
+				}
+			}
+			c:ARA = {
+				every_owned_location = {
+					every_pop = {
+						limit = {
+							culture = culture:mozarabic
+						}
+						change_pop_culture = culture:aragonese
+					}
+				}
+			}
+		}
+	}
+}

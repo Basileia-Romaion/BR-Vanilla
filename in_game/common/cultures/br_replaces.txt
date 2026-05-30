@@ -1,0 +1,109 @@
+﻿#Turkic ethnic group https://en.wikipedia.org/wiki/Turkic_peoples
+
+REPLACE_OR_CREATE:turkish_culture = { #https://en.wikipedia.org/wiki/Turkish_people
+	language = turkish_dialect	# Make new unque turkish_dialect #https://en.wikipedia.org/wiki/turkish_language
+	
+	color = color_culture_turkish
+	
+	tags = { turkish_gfx turkic_gfx persianate_gfx central_asian_gfx middle_east_gfx }
+
+	opinions = {
+		turkoman_culture = positive
+		greek_culture = positive #to slow down assimilation
+		#pontic_greek_culture = positive
+		#anatolian_greek_culture = positive
+		#armenikon_greek_culture = positive
+		#kilikioi_greek_culture = positive
+		#syrenikoi_greek_culture = positive
+		armenian_culture = positive #to slow down assimilation
+	}	
+
+	culture_groups = {
+		turkic_group
+		#iranian_group
+	}
+
+	country_modifier = {
+		army_light_cavalry_power = 0.05
+		global_levy_size_modifier = 0.1
+	}
+	goods_demand_modifier = {
+		tea = 2
+		saffron = 1.5
+		legumes = 1.2
+		livestock = 1.5
+		olives = 1.2
+	}
+	
+	use_patronym = yes
+
+	dynasty_name_type = descendant	
+}
+
+REPLACE_OR_CREATE:turkoman_culture = {
+	language = turkmen_dialect
+
+	color = color_culture_turkoman
+
+	tags = { turkic_gfx persianate_gfx central_asian_gfx middle_east_gfx }
+
+	opinions = {
+		turkish_culture = positive
+	}
+
+	culture_groups = {
+		turkic_group
+	}
+
+	goods_demand_modifier = {
+		tea = 2
+		saffron = 1.5
+		legumes = 1.2
+		livestock = 1.5
+		olives = 1.2
+	}
+}
+
+REPLACE_OR_CREATE:mozarabic = { 
+	language = castilian_dialect #maghrebi_dialect #Latin written in Arabic
+	
+	color = rgb { 175 190 210 }
+	
+	tags = { catalan_gfx iberian_gfx west_mediterranean_gfx mediterranean_gfx western_european_gfx european_gfx }
+
+	opinions = {
+		andalusi = positive
+		sephardi = positive
+		castilian = kindred #to be easier to assimilate
+		aragonese = kindred #to be easier to assimilate
+		portuguese = kindred #to be easier to assimilate
+		catalan = kindred #to be easier to assimilate
+	}
+
+	#location_modifier = {
+	#	local_pop_conversion_speed_modifier = -0.5
+	#}
+	
+	culture_groups = {
+		iberian_group
+	}
+}
+
+REPLACE_OR_CREATE:arab_sicilian = { 
+	language = sicilian_dialect #maghrebi_dialect
+	
+	color = rgb { 75 190 110 }
+	
+	tags = { maghrebi_gfx middle_east_gfx west_mediterranean_gfx mediterranean_gfx }
+
+	opinions = {
+		sicilian = kindred #to be easier to assimilate
+		tunisian = positive
+		andalusi = positive
+	}
+	
+	culture_groups = {
+		maghrebi_group
+		italian_group
+	}
+}

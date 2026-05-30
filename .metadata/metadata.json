@@ -1,0 +1,11 @@
+﻿{
+	"name":	"BR: Vanilla-Map",
+	"id":	"",
+	"version":	"0.5",
+	"supported_game_version":	"",
+	"short_description":	"Small mod that allows you to play with BR's content with vanilla borders and countries.",
+	"tags":	[],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
