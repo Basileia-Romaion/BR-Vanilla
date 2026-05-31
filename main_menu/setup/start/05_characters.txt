@@ -7398,6 +7398,7 @@ character_db={
 		first_name = { name = name_john }
 		culture = greek_culture
 		religion = orthodox
+		estate = nobles_estate
 		birth_date = 1193.1.1
 		death_date = 1253.1.1
 		birth = constantinople
@@ -10874,7 +10875,7 @@ character_db={
 		#mother = Unknown
 		spouse = "random"
 		dynasty = ohmucevic_dynasty
-		tag = SMC
+		tag = SER
 	}
 	
 	# Son of the Despot of Strumica
@@ -10888,7 +10889,7 @@ character_db={
 		father = smc_hrelja
 		#mother = Unknown
 		dynasty = ohmucevic_dynasty
-		tag = SMC
+		tag = SER
 	}
 	
 	# Brothers & Nephews of the Despot of Strumica
@@ -31204,6 +31205,8 @@ character_db={
 		dynasty = carretto_dynasty # Should be dynasty = carretto_millesimo_dynasty
 		tag = MND
 	}
+		
+	# II Line of the Marchesi di Carretto	
 
 	mnd_tommaso_millesimo = {
 		first_name = { name = name_thomas }
@@ -31786,6 +31789,8 @@ character_db={
 		dynasty = alidosi_dynasty
 		tag = IMO
 	}
+	
+	# HOUSE ALIDOSI (Lords of Imola)
 
 	imo_litto_alidosi = {
 		first_name = { name = name_philip } # Should be alternative: "Lippo"
@@ -33630,6 +33635,8 @@ character_db={
 		dynasty = carceri_dynasty
 		tag = NEG
 	}
+	
+	# HOUSE OF CARRARA (Lords of Padua)
 
 	neg_rizzardo_dalle_carceri = { # Northern Triarchy (Oreos)
 		first_name = { name = name_richard }
@@ -36452,6 +36459,8 @@ character_db={
 		tag = FER
 		ruler_trait = intricate_web_weaver
 	}
+	
+	# Daughters of the Lord of Ferrara
 
 	fer_orsolina_macaruffi = {
 		first_name = { name = name_ursula } # Should use diminutive: Orsolina
@@ -36705,6 +36714,8 @@ character_db={
 		spouse = fer_bertoldo_este
 		tag = FER
 	}
+	
+	# HOUSE DELLA FAGGIOLA
 
 	fer_francesco_este_ii = {
 		first_name = { name = name_francis }
@@ -39638,7 +39649,7 @@ character_db={
 		last_name = { name = de_Langosco }
 		culture = lombard
 		religion = catholic
-		estate = nobles_estate
+		estate = burghers_estate
 		female = yes
 		birth_date = 1286.1.1 # Unknown
 		death_date = 1310.1.1 # Unknown
@@ -41592,6 +41603,7 @@ character_db={
 		dynasty = malatesta_dynasty
 		tag = RIM
 	}
+	
 
 	# Uncle of the Lord of Rimini & Pesaro
 	ces_paolo_malatesta = {
@@ -41722,6 +41734,8 @@ character_db={
 		dynasty = malatesta_dynasty
 		tag = FAE
 	}
+	
+	# HOUSE GONZAGA (Lords of Mantua)
 
 	# Aunt of the Lord of Rimini & Pesaro & Mother of the Lord of Ravenna
 	rav_maddalena_malatesta = {
@@ -42861,6 +42875,8 @@ character_db={
 		dynasty = orsini_monterotondo_dynasty # Founder of the Monterotondo line of the House of Orsini
 		tag = PAP
 	}
+	
+	# Children of the Lord of Bologna
 
 	pap_napoleone_cardinale_orsini = { # Cardinal from 1288	
 		first_name = { name = name_napoleon }
@@ -42922,7 +42938,7 @@ character_db={
 		first_name = { name = name_angela }
 		culture = median
 		religion = catholic
-		estate = nobles_estate
+		estate = burghers_estate
 		female = yes
 		birth_date = 1318.1.1
 		birth = rome
@@ -43156,6 +43172,8 @@ character_db={
 		dynasty = apostolico_orsini_dynasty
 		tag = ACH
 	}
+	
+	# HOUSE DA POLENTA (Lords of Ravenna)
 
 	# Pope Celestine III
 	pap_celestino_iii = {	
@@ -45841,6 +45859,8 @@ character_db={
 		dynasty = da_verona_dynasty
 		tag = NEG
 	}
+	
+	#Theocratic Countries (Papal States, Trento)
 
 	neg_giberto_ii_verona = { # Central Triarchy (Chalkis)
 		first_name = { name = name_gilbert }
@@ -45855,6 +45875,8 @@ character_db={
 		dynasty = da_verona_dynasty
 		tag = NEG
 	}
+	
+	#Former Popes
 
 	neg_beatrice_verona = { # Central Triarchy (Chalkis)
 		first_name = { name = name_beatrix }
@@ -52352,6 +52374,7 @@ character_db={
 		general_trait = mamluk
 		tag = MAM
 	}
+	#Spouses and Son of the Ruler
 
 	#Predecessor
 	mam_baybars_ii = { #https://en.wikipedia.org/wiki/Baybars_II
@@ -52406,6 +52429,10 @@ character_db={
 		spouse = mam_an_nasir_bahri
 		tag = MAM
 	}
+	
+	#-------------------------- East Asia ----------------------------
+	
+	#Korea
 
 	#Ruler's 3rd Spouse
 	mam_qutlughmalik = {

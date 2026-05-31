@@ -7,6 +7,7 @@ building_manager = {
 	sergeantry = { tag = TUR level = 1 location = ankara }
 	madrasa = { tag = TUR level = 1 location = ankara }
 	slave_market = { tag = TUR level = 1 location = ankara }
+	seljuk_mint = { tag = TUR level = 2 location = ankara }
 
 	bey_fortress = { tag = TUR level = 1 location = sivas }
 	sufi_lodge = { tag = TUR level = 1 location = sivas }
@@ -14,19 +15,21 @@ building_manager = {
 	sergeantry = { tag = TUR level = 1 location = sivas }
 	madrasa = { tag = TUR level = 1 location = sivas }
 	slave_market = { tag = TUR level = 1 location = sivas }
-	seljuk_mint = { tag = TUR level = 2 location = sivas }
+	seljuk_mint = { tag = TUR level = 4 location = sivas }
 
 	bey_fortress = { tag = TUR level = 1 location = malatya }
 	sufi_lodge = { tag = TUR level = 1 location = malatya }
 	funduq = { tag = TUR level = 1 location = malatya }
 	madrasa = { tag = TUR level = 1 location = malatya }
 	slave_market = { tag = TUR level = 1 location = malatya }
+	seljuk_mint = { tag = TUR level = 2 location = malatya }
 
 	bey_fortress = { tag = TUR level = 1 location = kayseri }
 	sufi_lodge = { tag = TUR level = 1 location = kayseri }
 	funduq = { tag = TUR level = 1 location = kayseri }
 	madrasa = { tag = TUR level = 1 location = kayseri }
 	slave_market = { tag = TUR level = 1 location = kayseri }
+	seljuk_mint = { tag = TUR level = 2 location = kayseri }
 
 	bey_fortress = { tag = TUR level = 1 location = konya }
 	sufi_lodge = { tag = TUR level = 1 location = konya }
@@ -34,7 +37,7 @@ building_manager = {
 	sergeantry = { tag = TUR level = 1 location = konya }
 	madrasa = { tag = TUR level = 1 location = konya }
 	slave_market = { tag = TUR level = 1 location = konya }
-	seljuk_mint = { tag = TUR level = 2 location = konya }
+	seljuk_mint = { tag = TUR level = 4 location = konya }
 
 	bey_fortress = { tag = TUR level = 1 location = kastamonu }
 	sufi_lodge = { tag = TUR level = 1 location = kastamonu }

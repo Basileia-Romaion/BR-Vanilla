@@ -4,8 +4,8 @@ ilic = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 1.986	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 2.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 4.986	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -13,8 +13,8 @@ kelkit = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.139	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.139	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -22,8 +22,8 @@ sebinkarahisar = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 2.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.877	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.877	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -31,8 +31,8 @@ siran = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.417	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.417	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -40,8 +40,8 @@ cemisgezek = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 1.900	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 4.900	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -49,8 +49,8 @@ kuzucan = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 1.642	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 4.642	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -58,8 +58,8 @@ pertek = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 1.830	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 4.830	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -67,8 +67,8 @@ amasya = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.500	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 5.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.500	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -85,8 +85,8 @@ ladik_pontus = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.719	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.719	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -94,8 +94,8 @@ merzifon = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.474	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.474	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -103,8 +103,8 @@ sonisa = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.420	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.420	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -112,8 +112,8 @@ bozok = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.284	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.284	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -121,8 +121,8 @@ baliseyh = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.745	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.745	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -130,8 +130,8 @@ dinek_keskin = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.447	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.447	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -139,8 +139,8 @@ sorgun = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.818	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.518	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -148,8 +148,8 @@ corum = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.959	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.959	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -157,8 +157,8 @@ huseyinabad = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.708	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.708	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -166,8 +166,8 @@ sungurlu = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.631	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.631	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -175,8 +175,8 @@ divrigi = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.622	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.622	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -184,8 +184,8 @@ arapgir = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.299	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.299	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -193,8 +193,8 @@ arguvan = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.607	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.607	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -202,8 +202,8 @@ tomarza = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.012	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.012	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -211,8 +211,8 @@ kirsehir = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.355	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.355	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -220,8 +220,8 @@ hacibektas = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.690	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.690	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -229,8 +229,8 @@ sariyahsi = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.876	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.876	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -238,8 +238,8 @@ nigde = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.436	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.436	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -247,8 +247,8 @@ bor_tur = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.146	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.146	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -256,8 +256,8 @@ sivas = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 2.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 24.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 8.771	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 26.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 12.771	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 4.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -265,8 +265,8 @@ darende = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.821	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.821	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -274,8 +274,8 @@ dasmenda = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.773	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.773	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -283,8 +283,8 @@ deliktash = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.142	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.142	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -292,8 +292,8 @@ gurun = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.323	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.323	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -301,8 +301,8 @@ hafik = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.741	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.741	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -310,8 +310,8 @@ sarkisla = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.561	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.561	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -319,8 +319,8 @@ zara = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.019	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.019	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -328,8 +328,8 @@ tokat = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.997	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.997	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -337,8 +337,8 @@ aydincik = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.888	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.888	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -346,8 +346,8 @@ koyulhisar = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.216	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.216	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -355,8 +355,8 @@ niksar = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.406	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 6.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.406	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -364,8 +364,8 @@ zile = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.210	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 9.210	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -373,8 +373,8 @@ kochisar = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.481	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.481	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -382,8 +382,8 @@ kulu_turkey = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.157	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.157	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -391,8 +391,8 @@ insuyu = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.525	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.525	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -409,8 +409,8 @@ cubuk = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.930	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.930	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -418,8 +418,8 @@ haymana = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.125	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.125	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -427,8 +427,8 @@ kalecik = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.465	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.465	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -436,8 +436,8 @@ karakecili = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.439	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 9.439	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -445,8 +445,8 @@ polatli = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.607	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.607	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -454,8 +454,8 @@ beysehir = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.287	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.287	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -463,8 +463,8 @@ aksehir = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.334	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.334	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -472,8 +472,8 @@ bolvadin = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.677	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.677	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -481,8 +481,8 @@ ilgin = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.284	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.284	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -490,8 +490,8 @@ sarkikaraagac = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 1.354	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.354	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -499,8 +499,8 @@ yalvac = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.776	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.776	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -508,8 +508,8 @@ cankiri = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.911	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.911	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -517,8 +517,8 @@ bayat = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.070	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.070	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -526,62 +526,62 @@ tosya = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.746	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.746	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
-karahisar_i_sahib = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.192	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-altintas = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.125	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-emirdag = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.279	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-sandikli = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.836	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-seyitgazi = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.175	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
+#karahisar_i_sahib = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 6.192	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#altintas = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.125	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#emirdag = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.279	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#sandikli = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.836	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#seyitgazi = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.175	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
 suhut = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.348	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.348	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -589,8 +589,8 @@ konya = {
 	ddefine_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 2.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 18.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.897	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 22.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 12.897	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 3.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -598,8 +598,8 @@ altinekin = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.858	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.858	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -607,8 +607,8 @@ celtik = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.046	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.046	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -616,8 +616,8 @@ ladik = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.078	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.078	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -625,8 +625,8 @@ suluklu = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.426	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.426	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -634,8 +634,8 @@ turgut = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.672	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.672	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -643,8 +643,8 @@ larende = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.307	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.307	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -652,8 +652,8 @@ eregli_kar = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.505	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.505	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -661,8 +661,8 @@ eskil = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.679	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.679	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -670,8 +670,8 @@ obruk = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.386	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.386	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -679,35 +679,35 @@ sivrihisar = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.292	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.292	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
-bozan = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.798	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-kaymaz = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.202	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
+#bozan = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.798	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#kaymaz = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.202	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
 mihaliccik = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.678	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.678	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -715,8 +715,8 @@ mut = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 1.438	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 4.438	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -724,17 +724,17 @@ malatya = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 2.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 12.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 18.000	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = tribesmen	size = 12.594	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 5.500	culture = armenian_culture	religion = miaphysite }
+	define_pop = {	type = slaves	size = 6.500	culture = armenian_culture	religion = miaphysite }
 }
 besni = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.651	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.651	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -742,8 +742,8 @@ kahta = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.648	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.648	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -751,8 +751,8 @@ kaysun = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.650	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.650	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -760,8 +760,8 @@ samsat = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.753	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.753	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -769,8 +769,8 @@ afsin = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.357	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.357	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -778,8 +778,8 @@ elbistan = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 1.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 6.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.378	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 8.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.378	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -787,182 +787,182 @@ goksun = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.837	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 8.837	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
-comana_cil = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 1.864	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-molevon = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 1.796	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-balikesir = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.686	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
-}
-bigadic = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.561	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-soma = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.125	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-kutahya = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 8.527	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
-}
-aslanapa = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 8.266	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-emet = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 8.148	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-simav = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.678	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-tavsanli = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 8.522	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-sultanonu = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.193	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-bilecik = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.489	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-goynuk = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.289	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-eynegol = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.720	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-inonu = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 1.791	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-nalli = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.223	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-sogut = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.843	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-bolu = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.713	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-bayramlu = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 8.964	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
+#comana_cil = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.864	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#molevon = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 1.796	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#balikesir = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.686	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
+#}
+#bigadic = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 7.561	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#soma = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.125	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#kutahya = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 8.527	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
+#}
+#aslanapa = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 8.266	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#emet = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 8.148	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#simav = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 7.678	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#tavsanli = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 8.522	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#sultanonu = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.193	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#bilecik = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.489	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#goynuk = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.289	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#eynegol = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.720	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#inonu = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 1.791	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#nalli = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.223	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#sogut = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.843	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#bolu = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 6.713	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#bayramlu = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 8.964	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
 #mesudiye = {
 	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
@@ -972,166 +972,166 @@ bayramlu = {
 	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 #}
-terme = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.117	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-unye = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 9.460	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-kastamonu = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 2.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 8.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.123	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
-}
-arac = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.259	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-devrekani = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.306	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-gerede = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.653	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-mengen = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 8.377	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-bafra = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.633	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 1.250	culture = armenian_culture	religion = miaphysite }
-}
-gerze = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 8.650	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-samsun = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.438	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-alaiye = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.419	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-manavgat = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.152	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-elmali = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.754	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-istanoz = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.267	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
+#terme = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.117	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#unye = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 9.460	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#kastamonu = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 2.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 8.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 7.123	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 1.500	culture = armenian_culture	religion = miaphysite }
+#}
+#arac = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 6.259	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#devrekani = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 6.306	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#gerede = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.653	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#mengen = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 8.377	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#bafra = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.633	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 1.250	culture = armenian_culture	religion = miaphysite }
+#}
+#gerze = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 8.650	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#samsun = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 7.438	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#alaiye = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 3.419	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#manavgat = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.152	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#elmali = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 3.754	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#istanoz = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 3.267	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
 manisa = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 2.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = soldiers	size = 3.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 5.000	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
-birgi = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.947	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-cine = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.346	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-guzelhisar = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.981	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
+#birgi = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.947	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#cine = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.346	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#guzelhisar = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 6.981	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
 #milas = {
 	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
@@ -1141,132 +1141,132 @@ guzelhisar = {
 	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 #}
-nazilli = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 9.951	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-isparta = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.953	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-burdur = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.250	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-dinar = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 9.803	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-egirdir = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.594	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-stefani = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.250	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-uluborlu = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.215	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 1.250	culture = armenian_culture	religion = miaphysite }
-}
-mugla = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.456	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-golhisar = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.039	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-tavas = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.058	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-akhisar = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.836	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-demirci = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.554	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-gordes = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.118	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-kula = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.676	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
+#nazilli = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 9.951	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#isparta = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.953	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#burdur = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 3.250	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#dinar = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 9.803	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#egirdir = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.594	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#stefani = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.250	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#uluborlu = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 3.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.215	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 1.250	culture = armenian_culture	religion = miaphysite }
+#}
+#mugla = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.456	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#golhisar = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 5.039	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#tavas = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 7.058	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#akhisar = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.836	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#demirci = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.554	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#gordes = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 3.118	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#kula = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 7.676	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
 #ayasuluk = {
 	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
@@ -1276,166 +1276,166 @@ kula = {
 	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 #}
-usak = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.738	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-banaz = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.516	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-gediz = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 9.550	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-honaz = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.323	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-lazkiye = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 7.152	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
-seyhli = {
-	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 8.660	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
-	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
-}
+#usak = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 7.738	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#banaz = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 7.516	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#gediz = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 9.550	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#honaz = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 4.323	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#lazkiye = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 7.152	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
+#seyhli = {
+	#define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
+	#define_pop = {	type = tribesmen	size = 8.660	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
+	#define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
+#}
 kayseri = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 2.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 5.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = slaves	size = 2.500	culture = armenian_culture	religion = miaphysite }
+	define_pop = {	type = peasants	size = 18.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = slaves	size = 5.500	culture = armenian_culture	religion = miaphysite }
 }
 cumra = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 6.760	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.760	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 hatunsaray = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.860	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.860	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 sulusaray = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 kemah = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 beypazari = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 sabanozu = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 iskilip = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 akdagmadeni = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 egin = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 gemerek = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 bogazliyan = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 candir = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 nevsehir = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = tribesmen	size = 6.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 urgup = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 karapinar = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = tribesmen	size = 6.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 urgup = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
 gumus = {
-	define_pop = {	type = peasants	size = 0.750	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 3.660	culture = turkoman_culture	religion = sunni }
+	define_pop = {	type = peasants	size = 2.750	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 5.660	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = sunni }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -1443,8 +1443,8 @@ bekarlar = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.355	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.355	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -1452,8 +1452,8 @@ develi = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 4.355	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.355	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -1461,8 +1461,8 @@ yahyali = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.355	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 6.355	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
@@ -1470,8 +1470,8 @@ aksaray = {
 	define_pop = {	type = nobles	size = 0.1	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = clergy	size = 0.2	culture = turkish_culture	religion = sunni }
 	define_pop = {	type = soldiers	size = 0.500	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = peasants	size = 1.000	culture = turkish_culture	religion = sunni }
-	define_pop = {	type = tribesmen	size = 5.355	culture = turkoman_culture	religion = shia }
+	define_pop = {	type = peasants	size = 4.000	culture = turkish_culture	religion = sunni }
+	define_pop = {	type = tribesmen	size = 7.355	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = soldiers	size = 0.200	culture = turkoman_culture	religion = shia }
 	define_pop = {	type = slaves	size = 0.500	culture = armenian_culture	religion = miaphysite }
 }
