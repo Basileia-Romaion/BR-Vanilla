@@ -177,4 +177,54 @@ building_manager = {
 	tribal_war_camp = { tag = TUR level = 1 location = seyhli }
 	tribal_market_villages = { tag = TUR level = 1 location = seyhli }
 
+
+
+
+
+
+	#Latins
+	br_kekhrismene_pronoia = { tag = ACH level = 1 location = andravida }
+	br_kekhrismene_pronoia = { tag = ACH level = 1 location = kalamata }
+	br_kekhrismene_pronoia = { tag = NAX level = 1 location = naxos }
+	br_kekhrismene_pronoia = { tag = NAX level = 1 location = samos }
+	br_kekhrismene_pronoia = { tag = CEP level = 1 location = cephalonia }
+	br_kekhrismene_pronoia = { tag = CRT level = 1 location = chania }
+	br_kekhrismene_pronoia = { tag = NEG level = 1 location = negroponte }
+	br_kekhrismene_pronoia = { tag = ALB level = 1 location = corfu }
+
+	br_kekhrismene_pronoia = { tag = ARG level = 1 location = argos }
+	nobility_fortifications = { tag = ARG level = 1 location = argos }
+	market_village = { tag = ARG level = 1 location = argos }
+	br_kekhrismene_pronoia = { tag = PAT level = 1 location = patras }
+	nobility_fortifications = { tag = PAT level = 1 location = patras }
+	market_village = { tag = PAT level = 1 location = patras }
+	br_kekhrismene_pronoia = { tag = BOD level = 1 location = bodonitsa }
+	nobility_fortifications = { tag = BOD level = 1 location = bodonitsa }
+	market_village = { tag = BOD level = 1 location = bodonitsa }
+	br_kekhrismene_pronoia = { tag = SAO level = 1 location = salona }
+	nobility_fortifications = { tag = SAO level = 1 location = salona }
+	market_village = { tag = SAO level = 1 location = salona }
+	br_kekhrismene_pronoia = { tag = NEO level = 1 location = neopatras }
+	nobility_fortifications = { tag = NEO level = 1 location = neopatras }
+	market_village = { tag = NEO level = 1 location = neopatras }
+
+	br_kekhrismene_pronoia = { tag = KNI level = 1 location = rodos }
+	br_kekhrismene_pronoia = { tag = CRT level = 1 location = candia }
+	br_kekhrismene_pronoia = { tag = CYP level = 1 location = nicosia_cyp }
+	br_kekhrismene_pronoia = { tag = CYP level = 1 location = limassol }
+	br_kekhrismene_pronoia = { tag = CYP level = 1 location = larnaca }
+
+	br_pronoia_estate = { tag = GEN level = 1 location = foca }
+	br_pronoia_estate = { tag = GEN level = 1 location = amasra }
+	br_pronoia_estate = { tag = GEN level = 1 location = vosporo }
+	br_pronoia_estate = { tag = VEN level = 1 location = modon }
+
+	sergeantry = { tag = ALB level = 1 location = durres }
+	sergeantry = { tag = CYP level = 1 location = nicosia_cyp }
+	sergeantry = { tag = KNI level = 1 location = rodos }
+
+
+	#HRE
+
+
 }
