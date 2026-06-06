@@ -13357,9 +13357,9 @@ countries = {
 				clergy_strengthen_faith
 				clergy_literacy_rights
 				religious_diplomats
-				promote_cultural_unity
 				reduced_from_military_obligations
 				#br_roman_ecumenical_patriarch_privilege
+				br_roman_orthodox_catechesis
 				br_bureaucrat_clergy
 				consolidated_corruption_of_the_clergy
 
@@ -13368,8 +13368,6 @@ countries = {
 				land_of_commerce
 				market_fairs
 				sponsor_maritime_contracts
-				#control_over_monetary_policy
-				#control_over_the_coinage
 				br_latin_trade_naval_reliance
 				consolidated_corruption_of_the_burghers
 
@@ -13381,6 +13379,7 @@ countries = {
 				consolidated_corruption_of_the_peasants
 
 				br_ere_foederati_privilege
+				br_ere_varangian_privilege
 			}
 			reforms = {
 				br_imperial_administration
