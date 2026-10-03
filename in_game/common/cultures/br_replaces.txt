@@ -48,7 +48,7 @@ REPLACE_OR_CREATE:turkoman_culture = {
 	tags = { turkic_gfx persianate_gfx central_asian_gfx middle_east_gfx }
 
 	opinions = {
-		turkish_culture = positive
+		turkish_culture = kindred
 	}
 
 	culture_groups = {
